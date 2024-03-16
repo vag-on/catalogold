@@ -17,6 +17,15 @@ title: Changelog
 - update container image ghcr.io/linuxserver/dillinger to 3.39.1[@953ad36](https://github.com/953ad36) by renovate ([#19233](https://github.com/truecharts/charts/issues/19233))
 
 
+## [dillinger-9.6.1](https://github.com/truecharts/charts/compare/dillinger-9.6.0...dillinger-9.6.1) (2024-03-16)
+
+### Chore
+
+
+
+- update container image ghcr.io/linuxserver/dillinger to 3.39.1[@953ad36](https://github.com/953ad36) by renovate ([#19233](https://github.com/truecharts/charts/issues/19233))
+
+
 ## [dillinger-9.6.0](https://github.com/truecharts/charts/compare/dillinger-9.5.2...dillinger-9.6.0) (2024-03-16)
 
 ### Chore
@@ -88,13 +97,3 @@ title: Changelog
 
 - bump everything to force helm release again
 
-
-## [dillinger-9.2.3](https://github.com/truecharts/charts/compare/dillinger-9.2.1...dillinger-9.2.3) (2024-03-05)
-
-### Chore
-
-
-
-- force rereleases
-
-- update container image common to v18.1.6[@904d84b](https://github.com/904d84b) by renovate ([#18835](https://github.com/truecharts/charts/issues/18835))

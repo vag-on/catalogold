@@ -26,6 +26,15 @@ title: Changelog
 - update container image alturismo/guide2go to latest[@e67eb26](https://github.com/e67eb26) by renovate ([#19217](https://github.com/truecharts/charts/issues/19217))
 
 
+## [guide2go-5.6.1](https://github.com/truecharts/charts/compare/guide2go-5.6.0...guide2go-5.6.1) (2024-03-16)
+
+### Chore
+
+
+
+- update container image alturismo/guide2go to latest[@e67eb26](https://github.com/e67eb26) by renovate ([#19217](https://github.com/truecharts/charts/issues/19217))
+
+
 ## [guide2go-5.6.0](https://github.com/truecharts/charts/compare/guide2go-5.5.2...guide2go-5.6.0) (2024-03-16)
 
 ### Chore
@@ -87,13 +96,4 @@ title: Changelog
 
 
 - update container image common to v18.2.0[@9e8b7d4](https://github.com/9e8b7d4) by renovate ([#18943](https://github.com/truecharts/charts/issues/18943))
-
-
-## [guide2go-5.2.3](https://github.com/truecharts/charts/compare/guide2go-5.2.2...guide2go-5.2.3) (2024-03-05)
-
-### Chore
-
-
-
-- bump everything to force helm release again
 
