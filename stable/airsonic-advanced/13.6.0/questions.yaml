@@ -117,18 +117,10 @@ questions:
                                     type: dict
                                     attrs:
                                       - variable: JAVA_OPTS
-                                        label: "JAVA_OPTS"
-                                        description: "JAVA_OPTS"
+                                        label: "Java Opts"
                                         schema:
                                           type: string
                                           default: ""
-                                      - variable: CONTEXT_PATH
-                                        label: "CONTEXT_PATH"
-                                        description: "CONTEXT_PATH"
-                                        schema:
-                                          type: string
-                                          required: true
-                                          default: "/"
                                 - variable: envList
                                   label: Extra Environment Variables
                                   description: "Please be aware that some variables are set in the background, adding duplicates here might cause issues or prevent the app from starting..."
@@ -1422,9 +1414,9 @@ questions:
                               type: string
                               default: ""
 
-        - variable: playlist
-          label: "App Playlist Storage"
-          description: "Stores the Application Playlist."
+        - variable: playlists
+          label: "App Playlists Storage"
+          description: "Stores the Application Playlists."
           schema:
             additional_attrs: true
             type: dict
