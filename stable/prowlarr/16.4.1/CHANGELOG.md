@@ -17,6 +17,15 @@ title: Changelog
 - update container image ghcr.io/onedr0p/prowlarr-develop to 1.14.1.4316[@882daa1](https://github.com/882daa1) by renovate ([#19255](https://github.com/truecharts/charts/issues/19255))
 
 
+## [prowlarr-16.4.1](https://github.com/truecharts/charts/compare/prowlarr-16.4.0...prowlarr-16.4.1) (2024-03-16)
+
+### Chore
+
+
+
+- update container image ghcr.io/onedr0p/prowlarr-develop to 1.14.1.4316[@882daa1](https://github.com/882daa1) by renovate ([#19255](https://github.com/truecharts/charts/issues/19255))
+
+
 ## [prowlarr-16.4.0](https://github.com/truecharts/charts/compare/prowlarr-16.3.3...prowlarr-16.4.0) (2024-03-16)
 
 ### Chore
@@ -87,13 +96,4 @@ title: Changelog
 
 
 - update container image common to v18.2.0[@9e8b7d4](https://github.com/9e8b7d4) by renovate ([#18943](https://github.com/truecharts/charts/issues/18943))
-
-
-## [prowlarr-16.0.3](https://github.com/truecharts/charts/compare/prowlarr-16.0.2...prowlarr-16.0.3) (2024-03-05)
-
-### Chore
-
-
-
-- bump everything to force helm release again
 

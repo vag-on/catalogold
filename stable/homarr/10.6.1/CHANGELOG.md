@@ -17,6 +17,15 @@ title: Changelog
 - update container image ghcr.io/ajnart/homarr to v0.15.2[@caf77d7](https://github.com/caf77d7) by renovate ([#19304](https://github.com/truecharts/charts/issues/19304))
 
 
+## [homarr-10.6.1](https://github.com/truecharts/charts/compare/homarr-10.6.0...homarr-10.6.1) (2024-03-16)
+
+### Chore
+
+
+
+- update container image ghcr.io/ajnart/homarr to v0.15.2[@caf77d7](https://github.com/caf77d7) by renovate ([#19304](https://github.com/truecharts/charts/issues/19304))
+
+
 ## [homarr-10.6.0](https://github.com/truecharts/charts/compare/homarr-10.5.2...homarr-10.6.0) (2024-03-16)
 
 ### Chore
@@ -88,13 +97,3 @@ title: Changelog
 
 - bump everything to force helm release again
 
-
-## [homarr-10.2.2](https://github.com/truecharts/charts/compare/homarr-10.2.0...homarr-10.2.2) (2024-03-05)
-
-### Chore
-
-
-
-- force rereleases
-
-- update container image common to v18.1.6[@904d84b](https://github.com/904d84b) by renovate ([#18835](https://github.com/truecharts/charts/issues/18835))

@@ -17,6 +17,15 @@ title: Changelog
 - update container image rocker/rstudio to 4.3.3[@223204c](https://github.com/223204c) by renovate ([#19283](https://github.com/truecharts/charts/issues/19283))
 
 
+## [rstudio-6.6.1](https://github.com/truecharts/charts/compare/rstudio-6.6.0...rstudio-6.6.1) (2024-03-16)
+
+### Chore
+
+
+
+- update container image rocker/rstudio to 4.3.3[@223204c](https://github.com/223204c) by renovate ([#19283](https://github.com/truecharts/charts/issues/19283))
+
+
 ## [rstudio-6.6.0](https://github.com/truecharts/charts/compare/rstudio-6.5.2...rstudio-6.6.0) (2024-03-16)
 
 ### Chore
@@ -88,13 +97,3 @@ title: Changelog
 
 - bump everything to force helm release again
 
-
-## [rstudio-6.2.4](https://github.com/truecharts/charts/compare/rstudio-6.2.2...rstudio-6.2.4) (2024-03-05)
-
-### Chore
-
-
-
-- force rereleases
-
-- update container image common to v18.1.6[@904d84b](https://github.com/904d84b) by renovate ([#18835](https://github.com/truecharts/charts/issues/18835))

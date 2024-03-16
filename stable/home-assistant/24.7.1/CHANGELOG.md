@@ -17,6 +17,15 @@ title: Changelog
 - update container image homeassistant/home-assistant to v2024.3.1[@9dade93](https://github.com/9dade93) by renovate ([#19313](https://github.com/truecharts/charts/issues/19313))
 
 
+## [home-assistant-24.7.1](https://github.com/truecharts/charts/compare/home-assistant-24.7.0...home-assistant-24.7.1) (2024-03-16)
+
+### Chore
+
+
+
+- update container image homeassistant/home-assistant to v2024.3.1[@9dade93](https://github.com/9dade93) by renovate ([#19313](https://github.com/truecharts/charts/issues/19313))
+
+
 ## [home-assistant-24.7.0](https://github.com/truecharts/charts/compare/home-assistant-24.6.2...home-assistant-24.7.0) (2024-03-16)
 
 ### Chore
@@ -87,13 +96,4 @@ title: Changelog
 
 
 - update container image common to v18.2.0[@9e8b7d4](https://github.com/9e8b7d4) by renovate ([#18943](https://github.com/truecharts/charts/issues/18943))
-
-
-## [home-assistant-24.2.4](https://github.com/truecharts/charts/compare/home-assistant-24.2.3...home-assistant-24.2.4) (2024-03-05)
-
-### Chore
-
-
-
-- bump everything to force helm release again
 

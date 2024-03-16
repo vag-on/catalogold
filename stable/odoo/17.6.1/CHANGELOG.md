@@ -35,6 +35,15 @@ title: Changelog
 - update container image docker.io/odoo to 17.0[@7523a05](https://github.com/7523a05) by renovate ([#19224](https://github.com/truecharts/charts/issues/19224))
 
 
+## [odoo-17.6.1](https://github.com/truecharts/charts/compare/odoo-17.6.0...odoo-17.6.1) (2024-03-16)
+
+### Chore
+
+
+
+- update container image docker.io/odoo to 17.0[@7523a05](https://github.com/7523a05) by renovate ([#19224](https://github.com/truecharts/charts/issues/19224))
+
+
 ## [odoo-17.6.0](https://github.com/truecharts/charts/compare/odoo-17.5.2...odoo-17.6.0) (2024-03-16)
 
 ### Chore
@@ -87,13 +96,4 @@ title: Changelog
 
 
 - bump everything to trigger re-release
-
-
-## [odoo-17.4.0](https://github.com/truecharts/charts/compare/odoo-17.3.0...odoo-17.4.0) (2024-03-07)
-
-### Chore
-
-
-
-- update container image common to v19.0.0[@eef2062](https://github.com/eef2062) by renovate ([#18956](https://github.com/truecharts/charts/issues/18956))
 

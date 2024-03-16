@@ -17,6 +17,15 @@ title: Changelog
 - update container image tailscale/tailscale to v1.62.0[@22a86da](https://github.com/22a86da) by renovate ([#19348](https://github.com/truecharts/charts/issues/19348))
 
 
+## [tailscale-8.8.0](https://github.com/truecharts/charts/compare/tailscale-8.7.0...tailscale-8.8.0) (2024-03-16)
+
+### Chore
+
+
+
+- update container image tailscale/tailscale to v1.62.0[@22a86da](https://github.com/22a86da) by renovate ([#19348](https://github.com/truecharts/charts/issues/19348))
+
+
 ## [tailscale-8.7.0](https://github.com/truecharts/charts/compare/tailscale-8.6.2...tailscale-8.7.0) (2024-03-16)
 
 ### Chore
@@ -88,13 +97,3 @@ title: Changelog
 
 - bump everything to force helm release again
 
-
-## [tailscale-8.3.2](https://github.com/truecharts/charts/compare/tailscale-8.3.0...tailscale-8.3.2) (2024-03-05)
-
-### Chore
-
-
-
-- force rereleases
-
-- update container image common to v18.1.6[@904d84b](https://github.com/904d84b) by renovate ([#18835](https://github.com/truecharts/charts/issues/18835))

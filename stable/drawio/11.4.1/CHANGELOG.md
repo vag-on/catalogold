@@ -17,6 +17,15 @@ title: Changelog
 - update container image jgraph/drawio to v[@29e30c0](https://github.com/29e30c0) by renovate ([#19265](https://github.com/truecharts/charts/issues/19265))
 
 
+## [drawio-11.4.1](https://github.com/truecharts/charts/compare/drawio-11.4.0...drawio-11.4.1) (2024-03-16)
+
+### Chore
+
+
+
+- update container image jgraph/drawio to v[@29e30c0](https://github.com/29e30c0) by renovate ([#19265](https://github.com/truecharts/charts/issues/19265))
+
+
 ## [drawio-11.4.0](https://github.com/truecharts/charts/compare/drawio-11.3.2...drawio-11.4.0) (2024-03-16)
 
 ### Chore
@@ -87,13 +96,4 @@ title: Changelog
 
 
 - update container image common to v18.2.0[@9e8b7d4](https://github.com/9e8b7d4) by renovate ([#18943](https://github.com/truecharts/charts/issues/18943))
-
-
-## [drawio-11.0.3](https://github.com/truecharts/charts/compare/drawio-11.0.2...drawio-11.0.3) (2024-03-05)
-
-### Chore
-
-
-
-- bump everything to force helm release again
 

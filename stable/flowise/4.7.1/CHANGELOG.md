@@ -17,6 +17,15 @@ title: Changelog
 - update container image flowiseai/flowise to v1.6.1[@bfa1116](https://github.com/bfa1116) by renovate ([#19303](https://github.com/truecharts/charts/issues/19303))
 
 
+## [flowise-4.7.1](https://github.com/truecharts/charts/compare/flowise-4.7.0...flowise-4.7.1) (2024-03-16)
+
+### Chore
+
+
+
+- update container image flowiseai/flowise to v1.6.1[@bfa1116](https://github.com/bfa1116) by renovate ([#19303](https://github.com/truecharts/charts/issues/19303))
+
+
 ## [flowise-4.7.0](https://github.com/truecharts/charts/compare/flowise-4.6.2...flowise-4.7.0) (2024-03-16)
 
 ### Chore
@@ -88,13 +97,3 @@ title: Changelog
 
 - bump everything to force helm release again
 
-
-## [flowise-4.3.3](https://github.com/truecharts/charts/compare/flowise-4.3.1...flowise-4.3.3) (2024-03-05)
-
-### Chore
-
-
-
-- force rereleases
-
-- update container image common to v18.1.6[@904d84b](https://github.com/904d84b) by renovate ([#18835](https://github.com/truecharts/charts/issues/18835))

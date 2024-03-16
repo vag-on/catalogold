@@ -17,6 +17,15 @@ title: Changelog
 - update container image ghcr.io/onedr0p/bazarr to 1.4.2[@07af48c](https://github.com/07af48c) by renovate ([#19253](https://github.com/truecharts/charts/issues/19253))
 
 
+## [bazarr-19.4.1](https://github.com/truecharts/charts/compare/bazarr-19.4.0...bazarr-19.4.1) (2024-03-16)
+
+### Chore
+
+
+
+- update container image ghcr.io/onedr0p/bazarr to 1.4.2[@07af48c](https://github.com/07af48c) by renovate ([#19253](https://github.com/truecharts/charts/issues/19253))
+
+
 ## [bazarr-19.4.0](https://github.com/truecharts/charts/compare/bazarr-19.3.2...bazarr-19.4.0) (2024-03-16)
 
 ### Chore
@@ -88,13 +97,3 @@ title: Changelog
 
 - bump everything to force helm release again
 
-
-## [bazarr-19.0.2](https://github.com/truecharts/charts/compare/bazarr-19.0.0...bazarr-19.0.2) (2024-03-05)
-
-### Chore
-
-
-
-- force rereleases
-
-- update container image common to v18.1.6[@904d84b](https://github.com/904d84b) by renovate ([#18835](https://github.com/truecharts/charts/issues/18835))

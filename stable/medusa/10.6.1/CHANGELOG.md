@@ -17,6 +17,15 @@ title: Changelog
 - update container image ghcr.io/linuxserver/medusa to 1.0.19[@dbaa681](https://github.com/dbaa681) by renovate ([#19238](https://github.com/truecharts/charts/issues/19238))
 
 
+## [medusa-10.6.1](https://github.com/truecharts/charts/compare/medusa-10.6.0...medusa-10.6.1) (2024-03-16)
+
+### Chore
+
+
+
+- update container image ghcr.io/linuxserver/medusa to 1.0.19[@dbaa681](https://github.com/dbaa681) by renovate ([#19238](https://github.com/truecharts/charts/issues/19238))
+
+
 ## [medusa-10.6.0](https://github.com/truecharts/charts/compare/medusa-10.5.2...medusa-10.6.0) (2024-03-16)
 
 ### Chore
@@ -87,13 +96,4 @@ title: Changelog
 
 
 - update container image common to v18.2.0[@9e8b7d4](https://github.com/9e8b7d4) by renovate ([#18943](https://github.com/truecharts/charts/issues/18943))
-
-
-## [medusa-10.2.4](https://github.com/truecharts/charts/compare/medusa-10.2.3...medusa-10.2.4) (2024-03-05)
-
-### Chore
-
-
-
-- bump everything to force helm release again
 

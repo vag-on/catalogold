@@ -17,6 +17,15 @@ title: Changelog
 - update container image yourls to latest[@ab635e5](https://github.com/ab635e5) by renovate ([#19295](https://github.com/truecharts/charts/issues/19295))
 
 
+## [yourls-5.6.1](https://github.com/truecharts/charts/compare/yourls-5.6.0...yourls-5.6.1) (2024-03-16)
+
+### Chore
+
+
+
+- update container image yourls to latest[@ab635e5](https://github.com/ab635e5) by renovate ([#19295](https://github.com/truecharts/charts/issues/19295))
+
+
 ## [yourls-5.6.0](https://github.com/truecharts/charts/compare/yourls-5.5.2...yourls-5.6.0) (2024-03-16)
 
 ### Chore
@@ -88,13 +97,3 @@ title: Changelog
 
 - bump everything to force helm release again
 
-
-## [yourls-5.2.2](https://github.com/truecharts/charts/compare/yourls-5.2.0...yourls-5.2.2) (2024-03-05)
-
-### Chore
-
-
-
-- force rereleases
-
-- update container image common to v18.1.6[@904d84b](https://github.com/904d84b) by renovate ([#18835](https://github.com/truecharts/charts/issues/18835))

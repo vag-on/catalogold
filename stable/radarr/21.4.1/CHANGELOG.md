@@ -17,6 +17,15 @@ title: Changelog
 - update container image ghcr.io/onedr0p/radarr to 5.3.6.8612[@431f4d8](https://github.com/431f4d8) by renovate ([#19257](https://github.com/truecharts/charts/issues/19257))
 
 
+## [radarr-21.4.1](https://github.com/truecharts/charts/compare/radarr-21.4.0...radarr-21.4.1) (2024-03-16)
+
+### Chore
+
+
+
+- update container image ghcr.io/onedr0p/radarr to 5.3.6.8612[@431f4d8](https://github.com/431f4d8) by renovate ([#19257](https://github.com/truecharts/charts/issues/19257))
+
+
 ## [radarr-21.4.0](https://github.com/truecharts/charts/compare/radarr-21.3.2...radarr-21.4.0) (2024-03-16)
 
 ### Chore
@@ -88,13 +97,3 @@ title: Changelog
 
 - bump everything to force helm release again
 
-
-## [radarr-21.0.2](https://github.com/truecharts/charts/compare/radarr-21.0.0...radarr-21.0.2) (2024-03-05)
-
-### Chore
-
-
-
-- force rereleases
-
-- update container image common to v18.1.6[@904d84b](https://github.com/904d84b) by renovate ([#18835](https://github.com/truecharts/charts/issues/18835))

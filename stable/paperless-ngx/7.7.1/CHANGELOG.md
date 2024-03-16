@@ -17,6 +17,15 @@ title: Changelog
 - update container image redis to v13.0.5[@01c1933](https://github.com/01c1933) by renovate ([#19324](https://github.com/truecharts/charts/issues/19324))
 
 
+## [paperless-ngx-7.7.1](https://github.com/truecharts/charts/compare/paperless-ngx-7.7.0...paperless-ngx-7.7.1) (2024-03-16)
+
+### Chore
+
+
+
+- update container image redis to v13.0.5[@01c1933](https://github.com/01c1933) by renovate ([#19324](https://github.com/truecharts/charts/issues/19324))
+
+
 ## [paperless-ngx-7.7.0](https://github.com/truecharts/charts/compare/paperless-ngx-7.6.4...paperless-ngx-7.7.0) (2024-03-16)
 
 ### Chore
@@ -89,12 +98,3 @@ title: Changelog
 
 
 - bump everything to trigger re-release
-
-
-## [paperless-ngx-7.4.0](https://github.com/truecharts/charts/compare/paperless-ngx-7.3.0...paperless-ngx-7.4.0) (2024-03-07)
-
-### Chore
-
-
-
-- update container image common to v19.0.0[@eef2062](https://github.com/eef2062) by renovate ([#18956](https://github.com/truecharts/charts/issues/18956))

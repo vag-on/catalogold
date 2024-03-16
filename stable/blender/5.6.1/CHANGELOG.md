@@ -17,6 +17,15 @@ title: Changelog
 - update container image lscr.io/linuxserver/blender to latest[@f5275d6](https://github.com/f5275d6) by renovate ([#19270](https://github.com/truecharts/charts/issues/19270))
 
 
+## [blender-5.6.1](https://github.com/truecharts/charts/compare/blender-5.6.0...blender-5.6.1) (2024-03-16)
+
+### Chore
+
+
+
+- update container image lscr.io/linuxserver/blender to latest[@f5275d6](https://github.com/f5275d6) by renovate ([#19270](https://github.com/truecharts/charts/issues/19270))
+
+
 ## [blender-5.6.0](https://github.com/truecharts/charts/compare/blender-5.5.2...blender-5.6.0) (2024-03-16)
 
 ### Chore
@@ -87,13 +96,4 @@ title: Changelog
 
 
 - update container image common to v18.2.0[@9e8b7d4](https://github.com/9e8b7d4) by renovate ([#18943](https://github.com/truecharts/charts/issues/18943))
-
-
-## [blender-5.2.4](https://github.com/truecharts/charts/compare/blender-5.2.3...blender-5.2.4) (2024-03-05)
-
-### Chore
-
-
-
-- bump everything to force helm release again
 

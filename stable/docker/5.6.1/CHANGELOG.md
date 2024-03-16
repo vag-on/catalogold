@@ -35,6 +35,15 @@ title: Changelog
 - update container image docker to 25.0.4-dind[@93529df](https://github.com/93529df) by renovate ([#19221](https://github.com/truecharts/charts/issues/19221))
 
 
+## [docker-5.6.1](https://github.com/truecharts/charts/compare/docker-5.6.0...docker-5.6.1) (2024-03-16)
+
+### Chore
+
+
+
+- update container image docker to 25.0.4-dind[@93529df](https://github.com/93529df) by renovate ([#19221](https://github.com/truecharts/charts/issues/19221))
+
+
 ## [docker-5.6.0](https://github.com/truecharts/charts/compare/docker-5.5.2...docker-5.6.0) (2024-03-16)
 
 ### Chore
@@ -87,13 +96,4 @@ title: Changelog
 
 
 - bump everything to trigger re-release
-
-
-## [docker-5.4.0](https://github.com/truecharts/charts/compare/docker-5.3.0...docker-5.4.0) (2024-03-07)
-
-### Chore
-
-
-
-- update container image common to v19.0.0[@eef2062](https://github.com/eef2062) by renovate ([#18956](https://github.com/truecharts/charts/issues/18956))
 

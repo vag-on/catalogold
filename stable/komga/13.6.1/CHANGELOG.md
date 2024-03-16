@@ -17,6 +17,15 @@ title: Changelog
 - update container image gotson/komga to v1.10.4[@5b4f581](https://github.com/5b4f581) by renovate ([#19312](https://github.com/truecharts/charts/issues/19312))
 
 
+## [komga-13.6.1](https://github.com/truecharts/charts/compare/komga-13.6.0...komga-13.6.1) (2024-03-16)
+
+### Chore
+
+
+
+- update container image gotson/komga to v1.10.4[@5b4f581](https://github.com/5b4f581) by renovate ([#19312](https://github.com/truecharts/charts/issues/19312))
+
+
 ## [komga-13.6.0](https://github.com/truecharts/charts/compare/komga-13.5.2...komga-13.6.0) (2024-03-16)
 
 ### Chore
@@ -88,13 +97,3 @@ title: Changelog
 
 - bump everything to force helm release again
 
-
-## [komga-13.2.2](https://github.com/truecharts/charts/compare/komga-13.2.0...komga-13.2.2) (2024-03-05)
-
-### Chore
-
-
-
-- force rereleases
-
-- update container image common to v18.1.6[@904d84b](https://github.com/904d84b) by renovate ([#18835](https://github.com/truecharts/charts/issues/18835))
