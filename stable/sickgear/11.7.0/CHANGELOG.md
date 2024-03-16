@@ -44,6 +44,15 @@ title: Changelog
 - update container image common to v20.2.0[@91ade87](https://github.com/91ade87) by renovate ([#19361](https://github.com/truecharts/charts/issues/19361))
 
 
+## [sickgear-11.7.0](https://github.com/truecharts/charts/compare/sickgear-11.6.0...sickgear-11.7.0) (2024-03-16)
+
+### Chore
+
+
+
+- update container image common to v20.2.0[@91ade87](https://github.com/91ade87) by renovate ([#19361](https://github.com/truecharts/charts/issues/19361))
+
+
 ## [sickgear-11.6.0](https://github.com/truecharts/charts/compare/sickgear-11.5.2...sickgear-11.6.0) (2024-03-16)
 
 ### Chore
@@ -87,13 +96,4 @@ title: Changelog
 
 
 - bump everything to trigger re-release
-
-
-## [sickgear-11.4.0](https://github.com/truecharts/charts/compare/sickgear-11.3.0...sickgear-11.4.0) (2024-03-07)
-
-### Chore
-
-
-
-- update container image common to v19.0.0[@eef2062](https://github.com/eef2062) by renovate ([#18956](https://github.com/truecharts/charts/issues/18956))
 

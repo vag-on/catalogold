@@ -44,6 +44,15 @@ title: Changelog
 - update container image common to v20.2.0[@91ade87](https://github.com/91ade87) by renovate ([#19361](https://github.com/truecharts/charts/issues/19361))
 
 
+## [airsonic-advanced-13.8.0](https://github.com/truecharts/charts/compare/airsonic-advanced-13.7.0...airsonic-advanced-13.8.0) (2024-03-16)
+
+### Chore
+
+
+
+- update container image common to v20.2.0[@91ade87](https://github.com/91ade87) by renovate ([#19361](https://github.com/truecharts/charts/issues/19361))
+
+
 ## [airsonic-advanced-13.7.0](https://github.com/truecharts/charts/compare/airsonic-advanced-13.6.0...airsonic-advanced-13.7.0) (2024-03-16)
 
 ### Chore
@@ -84,15 +93,6 @@ title: Changelog
 
 
 ## [airsonic-advanced-13.4.1](https://github.com/truecharts/charts/compare/airsonic-advanced-13.4.0...airsonic-advanced-13.4.1) (2024-03-07)
-
-### Chore
-
-
-
-- bump everything to trigger re-release
-
-
-## [airsonic-advanced-13.4.0](https://github.com/truecharts/charts/compare/airsonic-advanced-13.3.0...airsonic-advanced-13.4.0) (2024-03-07)
 
 ### Chore
 

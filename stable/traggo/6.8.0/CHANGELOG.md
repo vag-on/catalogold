@@ -44,6 +44,15 @@ title: Changelog
 - update container image common to v20.2.0[@91ade87](https://github.com/91ade87) by renovate ([#19361](https://github.com/truecharts/charts/issues/19361))
 
 
+## [traggo-6.8.0](https://github.com/truecharts/charts/compare/traggo-6.7.0...traggo-6.8.0) (2024-03-16)
+
+### Chore
+
+
+
+- update container image common to v20.2.0[@91ade87](https://github.com/91ade87) by renovate ([#19361](https://github.com/truecharts/charts/issues/19361))
+
+
 ## [traggo-6.7.0](https://github.com/truecharts/charts/compare/traggo-6.6.2...traggo-6.7.0) (2024-03-16)
 
 ### Chore
@@ -87,13 +96,4 @@ title: Changelog
 
 
 - update container image traggo/server to v0.4.3[@93a800b](https://github.com/93a800b) by renovate ([#19128](https://github.com/truecharts/charts/issues/19128))
-
-
-## [traggo-6.4.1](https://github.com/truecharts/charts/compare/traggo-6.4.0...traggo-6.4.1) (2024-03-07)
-
-### Chore
-
-
-
-- bump everything to trigger re-release
 

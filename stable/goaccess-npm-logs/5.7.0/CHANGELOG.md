@@ -44,6 +44,15 @@ title: Changelog
 - update container image common to v20.2.0[@91ade87](https://github.com/91ade87) by renovate ([#19361](https://github.com/truecharts/charts/issues/19361))
 
 
+## [goaccess-npm-logs-5.7.0](https://github.com/truecharts/charts/compare/goaccess-npm-logs-5.6.0...goaccess-npm-logs-5.7.0) (2024-03-16)
+
+### Chore
+
+
+
+- update container image common to v20.2.0[@91ade87](https://github.com/91ade87) by renovate ([#19361](https://github.com/truecharts/charts/issues/19361))
+
+
 ## [goaccess-npm-logs-5.6.0](https://github.com/truecharts/charts/compare/goaccess-npm-logs-5.5.2...goaccess-npm-logs-5.6.0) (2024-03-16)
 
 ### Chore
@@ -87,13 +96,4 @@ title: Changelog
 
 
 - update container image xavierh/goaccess-for-nginxproxymanager to latest[@bf56396](https://github.com/bf56396) by renovate ([#19046](https://github.com/truecharts/charts/issues/19046))
-
-
-## [goaccess-npm-logs-5.4.1](https://github.com/truecharts/charts/compare/goaccess-npm-logs-5.4.0...goaccess-npm-logs-5.4.1) (2024-03-07)
-
-### Chore
-
-
-
-- bump everything to trigger re-release
 

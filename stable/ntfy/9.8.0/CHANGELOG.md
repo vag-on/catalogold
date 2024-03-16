@@ -44,6 +44,15 @@ title: Changelog
 - update container image common to v20.2.0[@91ade87](https://github.com/91ade87) by renovate ([#19361](https://github.com/truecharts/charts/issues/19361))
 
 
+## [ntfy-9.8.0](https://github.com/truecharts/charts/compare/ntfy-9.7.0...ntfy-9.8.0) (2024-03-16)
+
+### Chore
+
+
+
+- update container image common to v20.2.0[@91ade87](https://github.com/91ade87) by renovate ([#19361](https://github.com/truecharts/charts/issues/19361))
+
+
 ## [ntfy-9.7.0](https://github.com/truecharts/charts/compare/ntfy-9.6.2...ntfy-9.7.0) (2024-03-16)
 
 ### Chore
@@ -87,13 +96,4 @@ title: Changelog
 
 
 - update container image binwiederhier/ntfy to v2.9.0[@627fa10](https://github.com/627fa10) by renovate ([#19094](https://github.com/truecharts/charts/issues/19094))
-
-
-## [ntfy-9.4.1](https://github.com/truecharts/charts/compare/ntfy-9.4.0...ntfy-9.4.1) (2024-03-07)
-
-### Chore
-
-
-
-- bump everything to trigger re-release
 

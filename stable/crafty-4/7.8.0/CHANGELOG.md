@@ -44,6 +44,15 @@ title: Changelog
 - update container image common to v20.2.0[@91ade87](https://github.com/91ade87) by renovate ([#19361](https://github.com/truecharts/charts/issues/19361))
 
 
+## [crafty-4-7.8.0](https://github.com/truecharts/charts/compare/crafty-4-7.7.0...crafty-4-7.8.0) (2024-03-16)
+
+### Chore
+
+
+
+- update container image common to v20.2.0[@91ade87](https://github.com/91ade87) by renovate ([#19361](https://github.com/truecharts/charts/issues/19361))
+
+
 ## [crafty-4-7.7.0](https://github.com/truecharts/charts/compare/crafty-4-7.6.2...crafty-4-7.7.0) (2024-03-16)
 
 ### Chore
@@ -87,13 +96,4 @@ title: Changelog
 
 
 - update container image registry.gitlab.com/crafty-controller/crafty-4 to v4.3.0[@50cb2b4](https://github.com/50cb2b4) by renovate ([#19125](https://github.com/truecharts/charts/issues/19125))
-
-
-## [crafty-4-7.4.1](https://github.com/truecharts/charts/compare/crafty-4-7.4.0...crafty-4-7.4.1) (2024-03-07)
-
-### Chore
-
-
-
-- bump everything to trigger re-release
 

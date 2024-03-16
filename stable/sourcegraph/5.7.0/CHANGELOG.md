@@ -44,6 +44,15 @@ title: Changelog
 - update container image common to v20.2.0[@91ade87](https://github.com/91ade87) by renovate ([#19361](https://github.com/truecharts/charts/issues/19361))
 
 
+## [sourcegraph-5.7.0](https://github.com/truecharts/charts/compare/sourcegraph-5.6.0...sourcegraph-5.7.0) (2024-03-16)
+
+### Chore
+
+
+
+- update container image common to v20.2.0[@91ade87](https://github.com/91ade87) by renovate ([#19361](https://github.com/truecharts/charts/issues/19361))
+
+
 ## [sourcegraph-5.6.0](https://github.com/truecharts/charts/compare/sourcegraph-5.5.2...sourcegraph-5.6.0) (2024-03-16)
 
 ### Chore
@@ -87,13 +96,4 @@ title: Changelog
 
 
 - update container image sourcegraph/server to v5.3.2[@1b65b67](https://github.com/1b65b67) by renovate ([#19088](https://github.com/truecharts/charts/issues/19088))
-
-
-## [sourcegraph-5.4.1](https://github.com/truecharts/charts/compare/sourcegraph-5.4.0...sourcegraph-5.4.1) (2024-03-07)
-
-### Chore
-
-
-
-- bump everything to trigger re-release
 

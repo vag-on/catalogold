@@ -44,6 +44,15 @@ title: Changelog
 - update container image common to v20.2.0[@91ade87](https://github.com/91ade87) by renovate ([#19361](https://github.com/truecharts/charts/issues/19361))
 
 
+## [alist-9.9.0](https://github.com/truecharts/charts/compare/alist-9.8.0...alist-9.9.0) (2024-03-16)
+
+### Chore
+
+
+
+- update container image common to v20.2.0[@91ade87](https://github.com/91ade87) by renovate ([#19361](https://github.com/truecharts/charts/issues/19361))
+
+
 ## [alist-9.8.0](https://github.com/truecharts/charts/compare/alist-9.7.2...alist-9.8.0) (2024-03-16)
 
 ### Chore
@@ -87,13 +96,4 @@ title: Changelog
 
 
 - bump everything to trigger re-release
-
-
-## [alist-9.6.0](https://github.com/truecharts/charts/compare/alist-9.5.0...alist-9.6.0) (2024-03-07)
-
-### Chore
-
-
-
-- update container image common to v19.0.0[@eef2062](https://github.com/eef2062) by renovate ([#18956](https://github.com/truecharts/charts/issues/18956))
 

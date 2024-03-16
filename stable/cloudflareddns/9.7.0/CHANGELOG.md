@@ -44,6 +44,15 @@ title: Changelog
 - update container image common to v20.2.0[@91ade87](https://github.com/91ade87) by renovate ([#19361](https://github.com/truecharts/charts/issues/19361))
 
 
+## [cloudflareddns-9.7.0](https://github.com/truecharts/charts/compare/cloudflareddns-9.6.0...cloudflareddns-9.7.0) (2024-03-16)
+
+### Chore
+
+
+
+- update container image common to v20.2.0[@91ade87](https://github.com/91ade87) by renovate ([#19361](https://github.com/truecharts/charts/issues/19361))
+
+
 ## [cloudflareddns-9.6.0](https://github.com/truecharts/charts/compare/cloudflareddns-9.5.2...cloudflareddns-9.6.0) (2024-03-16)
 
 ### Chore
@@ -87,13 +96,4 @@ title: Changelog
 
 
 - update container image ghcr.io/hotio/cloudflareddns to latest[@d3db062](https://github.com/d3db062) by renovate ([#18986](https://github.com/truecharts/charts/issues/18986))
-
-
-## [cloudflareddns-9.4.1](https://github.com/truecharts/charts/compare/cloudflareddns-9.4.0...cloudflareddns-9.4.1) (2024-03-07)
-
-### Chore
-
-
-
-- bump everything to trigger re-release
 

@@ -44,6 +44,15 @@ title: Changelog
 - update container image common to v20.2.0[@91ade87](https://github.com/91ade87) by renovate ([#19361](https://github.com/truecharts/charts/issues/19361))
 
 
+## [tt-rss-16.7.0](https://github.com/truecharts/charts/compare/tt-rss-16.6.0...tt-rss-16.7.0) (2024-03-16)
+
+### Chore
+
+
+
+- update container image common to v20.2.0[@91ade87](https://github.com/91ade87) by renovate ([#19361](https://github.com/truecharts/charts/issues/19361))
+
+
 ## [tt-rss-16.6.0](https://github.com/truecharts/charts/compare/tt-rss-16.5.2...tt-rss-16.6.0) (2024-03-16)
 
 ### Chore
@@ -87,13 +96,4 @@ title: Changelog
 
 
 - update container image cthulhoo/ttrss-web-nginx to latest[@cde5998](https://github.com/cde5998) by renovate ([#18975](https://github.com/truecharts/charts/issues/18975))
-
-
-## [tt-rss-16.4.3](https://github.com/truecharts/charts/compare/tt-rss-16.4.1...tt-rss-16.4.3) (2024-03-11)
-
-### Chore
-
-
-
-- update container image cthulhoo/ttrss-fpm-pgsql-static to latest[@d71e863](https://github.com/d71e863) by renovate ([#18974](https://github.com/truecharts/charts/issues/18974))
 

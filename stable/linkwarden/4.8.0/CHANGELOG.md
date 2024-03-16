@@ -44,6 +44,15 @@ title: Changelog
 - update container image common to v20.2.0[@91ade87](https://github.com/91ade87) by renovate ([#19361](https://github.com/truecharts/charts/issues/19361))
 
 
+## [linkwarden-4.8.0](https://github.com/truecharts/charts/compare/linkwarden-4.7.0...linkwarden-4.8.0) (2024-03-16)
+
+### Chore
+
+
+
+- update container image common to v20.2.0[@91ade87](https://github.com/91ade87) by renovate ([#19361](https://github.com/truecharts/charts/issues/19361))
+
+
 ## [linkwarden-4.7.0](https://github.com/truecharts/charts/compare/linkwarden-4.6.2...linkwarden-4.7.0) (2024-03-16)
 
 ### Chore
@@ -87,13 +96,4 @@ title: Changelog
 
 
 - update container image ghcr.io/linkwarden/linkwarden to v2.5.1[@717150e](https://github.com/717150e) by renovate ([#19099](https://github.com/truecharts/charts/issues/19099))
-
-
-## [linkwarden-4.4.1](https://github.com/truecharts/charts/compare/linkwarden-4.4.0...linkwarden-4.4.1) (2024-03-07)
-
-### Chore
-
-
-
-- bump everything to trigger re-release
 

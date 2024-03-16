@@ -44,6 +44,15 @@ title: Changelog
 - update container image common to v20.2.0[@91ade87](https://github.com/91ade87) by renovate ([#19361](https://github.com/truecharts/charts/issues/19361))
 
 
+## [frigate-14.3.0](https://github.com/truecharts/charts/compare/frigate-14.2.0...frigate-14.3.0) (2024-03-16)
+
+### Chore
+
+
+
+- update container image common to v20.2.0[@91ade87](https://github.com/91ade87) by renovate ([#19361](https://github.com/truecharts/charts/issues/19361))
+
+
 ## [frigate-14.2.0](https://github.com/truecharts/charts/compare/frigate-14.1.2...frigate-14.2.0) (2024-03-16)
 
 ### Chore
@@ -87,13 +96,4 @@ title: Changelog
 
 
 - Fix configmap for 0.13 ([#18967](https://github.com/truecharts/charts/issues/18967))
-
-
-## [frigate-14.0.0](https://github.com/truecharts/charts/compare/frigate-13.4.1...frigate-14.0.0) (2024-03-10)
-
-### Chore
-
-
-
-- update container image ghcr.io/blakeblackshear/frigate to v0.13.2 by renovate ([#17936](https://github.com/truecharts/charts/issues/17936))
 

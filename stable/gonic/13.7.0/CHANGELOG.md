@@ -44,6 +44,15 @@ title: Changelog
 - update container image common to v20.2.0[@91ade87](https://github.com/91ade87) by renovate ([#19361](https://github.com/truecharts/charts/issues/19361))
 
 
+## [gonic-13.7.0](https://github.com/truecharts/charts/compare/gonic-13.6.0...gonic-13.7.0) (2024-03-16)
+
+### Chore
+
+
+
+- update container image common to v20.2.0[@91ade87](https://github.com/91ade87) by renovate ([#19361](https://github.com/truecharts/charts/issues/19361))
+
+
 ## [gonic-13.6.0](https://github.com/truecharts/charts/compare/gonic-13.5.2...gonic-13.6.0) (2024-03-16)
 
 ### Chore
@@ -87,13 +96,4 @@ title: Changelog
 
 
 - update container image sentriz/gonic to v0.16.3[@69a85c5](https://github.com/69a85c5) by renovate ([#19086](https://github.com/truecharts/charts/issues/19086))
-
-
-## [gonic-13.4.1](https://github.com/truecharts/charts/compare/gonic-13.4.0...gonic-13.4.1) (2024-03-07)
-
-### Chore
-
-
-
-- bump everything to trigger re-release
 

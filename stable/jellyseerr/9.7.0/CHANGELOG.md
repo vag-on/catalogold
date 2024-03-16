@@ -44,6 +44,15 @@ title: Changelog
 - update container image common to v20.2.0[@91ade87](https://github.com/91ade87) by renovate ([#19361](https://github.com/truecharts/charts/issues/19361))
 
 
+## [jellyseerr-9.7.0](https://github.com/truecharts/charts/compare/jellyseerr-9.6.0...jellyseerr-9.7.0) (2024-03-16)
+
+### Chore
+
+
+
+- update container image common to v20.2.0[@91ade87](https://github.com/91ade87) by renovate ([#19361](https://github.com/truecharts/charts/issues/19361))
+
+
 ## [jellyseerr-9.6.0](https://github.com/truecharts/charts/compare/jellyseerr-9.5.2...jellyseerr-9.6.0) (2024-03-16)
 
 ### Chore
@@ -87,14 +96,5 @@ title: Changelog
 
 
 ## [jellyseerr-9.4.1](https://github.com/truecharts/charts/compare/jellyseerr-9.4.0...jellyseerr-9.4.1) (2024-03-07)
-
-### Chore
-
-
-
-- bump everything to trigger re-release
-
-
-## [jellyseerr-9.4.0](https://github.com/truecharts/charts/compare/jellyseerr-9.3.0...jellyseerr-9.4.0) (2024-03-07)
 
 ### Chore

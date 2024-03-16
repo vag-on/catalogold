@@ -44,6 +44,15 @@ title: Changelog
 - update container image common to v20.2.0[@91ade87](https://github.com/91ade87) by renovate ([#19361](https://github.com/truecharts/charts/issues/19361))
 
 
+## [omada-controller-14.7.0](https://github.com/truecharts/charts/compare/omada-controller-14.6.0...omada-controller-14.7.0) (2024-03-16)
+
+### Chore
+
+
+
+- update container image common to v20.2.0[@91ade87](https://github.com/91ade87) by renovate ([#19361](https://github.com/truecharts/charts/issues/19361))
+
+
 ## [omada-controller-14.6.0](https://github.com/truecharts/charts/compare/omada-controller-14.5.2...omada-controller-14.6.0) (2024-03-16)
 
 ### Chore
@@ -87,13 +96,4 @@ title: Changelog
 
 
 - update container image mbentley/omada-controller to 5.13[@538ec21](https://github.com/538ec21) by renovate ([#19033](https://github.com/truecharts/charts/issues/19033))
-
-
-## [omada-controller-14.4.1](https://github.com/truecharts/charts/compare/omada-controller-14.4.0...omada-controller-14.4.1) (2024-03-07)
-
-### Chore
-
-
-
-- bump everything to trigger re-release
 

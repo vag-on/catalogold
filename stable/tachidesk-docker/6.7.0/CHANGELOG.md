@@ -44,6 +44,15 @@ title: Changelog
 - update container image common to v20.2.0[@91ade87](https://github.com/91ade87) by renovate ([#19361](https://github.com/truecharts/charts/issues/19361))
 
 
+## [tachidesk-docker-6.7.0](https://github.com/truecharts/charts/compare/tachidesk-docker-6.6.0...tachidesk-docker-6.7.0) (2024-03-16)
+
+### Chore
+
+
+
+- update container image common to v20.2.0[@91ade87](https://github.com/91ade87) by renovate ([#19361](https://github.com/truecharts/charts/issues/19361))
+
+
 ## [tachidesk-docker-6.6.0](https://github.com/truecharts/charts/compare/tachidesk-docker-6.5.2...tachidesk-docker-6.6.0) (2024-03-16)
 
 ### Chore
@@ -87,13 +96,4 @@ title: Changelog
 
 
 - update container image ghcr.io/suwayomi/tachidesk to preview[@a914296](https://github.com/a914296) by renovate ([#19019](https://github.com/truecharts/charts/issues/19019))
-
-
-## [tachidesk-docker-6.4.1](https://github.com/truecharts/charts/compare/tachidesk-docker-6.4.0...tachidesk-docker-6.4.1) (2024-03-07)
-
-### Chore
-
-
-
-- bump everything to trigger re-release
 

@@ -44,6 +44,15 @@ title: Changelog
 - update container image common to v20.2.0[@91ade87](https://github.com/91ade87) by renovate ([#19361](https://github.com/truecharts/charts/issues/19361))
 
 
+## [kdenlive-5.7.0](https://github.com/truecharts/charts/compare/kdenlive-5.6.0...kdenlive-5.7.0) (2024-03-16)
+
+### Chore
+
+
+
+- update container image common to v20.2.0[@91ade87](https://github.com/91ade87) by renovate ([#19361](https://github.com/truecharts/charts/issues/19361))
+
+
 ## [kdenlive-5.6.0](https://github.com/truecharts/charts/compare/kdenlive-5.5.2...kdenlive-5.6.0) (2024-03-16)
 
 ### Chore
@@ -87,13 +96,4 @@ title: Changelog
 
 
 - update container image lscr.io/linuxserver/kdenlive to latest[@9afa3a7](https://github.com/9afa3a7) by renovate ([#19156](https://github.com/truecharts/charts/issues/19156))
-
-
-## [kdenlive-5.4.1](https://github.com/truecharts/charts/compare/kdenlive-5.4.0...kdenlive-5.4.1) (2024-03-07)
-
-### Chore
-
-
-
-- bump everything to trigger re-release
 

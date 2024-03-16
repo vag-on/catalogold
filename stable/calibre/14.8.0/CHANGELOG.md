@@ -44,6 +44,15 @@ title: Changelog
 - update container image common to v20.2.0[@91ade87](https://github.com/91ade87) by renovate ([#19361](https://github.com/truecharts/charts/issues/19361))
 
 
+## [calibre-14.8.0](https://github.com/truecharts/charts/compare/calibre-14.7.0...calibre-14.8.0) (2024-03-16)
+
+### Chore
+
+
+
+- update container image common to v20.2.0[@91ade87](https://github.com/91ade87) by renovate ([#19361](https://github.com/truecharts/charts/issues/19361))
+
+
 ## [calibre-14.7.0](https://github.com/truecharts/charts/compare/calibre-14.6.2...calibre-14.7.0) (2024-03-16)
 
 ### Chore
@@ -87,13 +96,4 @@ title: Changelog
 
 
 - update container image ghcr.io/linuxserver/calibre to 7.6.0[@f0884e5](https://github.com/f0884e5) by renovate ([#18994](https://github.com/truecharts/charts/issues/18994))
-
-
-## [calibre-14.5.1](https://github.com/truecharts/charts/compare/calibre-14.5.0...calibre-14.5.1) (2024-03-07)
-
-### Chore
-
-
-
-- bump everything to trigger re-release
 

@@ -44,6 +44,15 @@ title: Changelog
 - update container image common to v20.2.0[@91ade87](https://github.com/91ade87) by renovate ([#19361](https://github.com/truecharts/charts/issues/19361))
 
 
+## [mealie-21.8.0](https://github.com/truecharts/charts/compare/mealie-21.7.0...mealie-21.8.0) (2024-03-16)
+
+### Chore
+
+
+
+- update container image common to v20.2.0[@91ade87](https://github.com/91ade87) by renovate ([#19361](https://github.com/truecharts/charts/issues/19361))
+
+
 ## [mealie-21.7.0](https://github.com/truecharts/charts/compare/mealie-21.6.2...mealie-21.7.0) (2024-03-16)
 
 ### Chore
@@ -87,13 +96,4 @@ title: Changelog
 
 
 - update container image ghcr.io/mealie-recipes/mealie to v1.3.2[@3b503b0](https://github.com/3b503b0) by renovate ([#19101](https://github.com/truecharts/charts/issues/19101))
-
-
-## [mealie-21.4.1](https://github.com/truecharts/charts/compare/mealie-21.4.0...mealie-21.4.1) (2024-03-07)
-
-### Chore
-
-
-
-- bump everything to trigger re-release
 

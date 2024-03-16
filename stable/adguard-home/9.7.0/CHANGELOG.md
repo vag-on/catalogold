@@ -44,6 +44,15 @@ title: Changelog
 - update container image common to v20.2.0[@91ade87](https://github.com/91ade87) by renovate ([#19361](https://github.com/truecharts/charts/issues/19361))
 
 
+## [adguard-home-9.7.0](https://github.com/truecharts/charts/compare/adguard-home-9.6.0...adguard-home-9.7.0) (2024-03-16)
+
+### Chore
+
+
+
+- update container image common to v20.2.0[@91ade87](https://github.com/91ade87) by renovate ([#19361](https://github.com/truecharts/charts/issues/19361))
+
+
 ## [adguard-home-9.6.0](https://github.com/truecharts/charts/compare/adguard-home-9.5.2...adguard-home-9.6.0) (2024-03-16)
 
 ### Chore
@@ -87,13 +96,4 @@ title: Changelog
 
 
 - update container image adguard/adguardhome to v0.107.45[@52a9c2e](https://github.com/52a9c2e) by renovate ([#19053](https://github.com/truecharts/charts/issues/19053))
-
-
-## [adguard-home-9.4.1](https://github.com/truecharts/charts/compare/adguard-home-9.4.0...adguard-home-9.4.1) (2024-03-07)
-
-### Chore
-
-
-
-- bump everything to trigger re-release
 

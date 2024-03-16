@@ -44,6 +44,15 @@ title: Changelog
 - update container image common to v20.2.0[@91ade87](https://github.com/91ade87) by renovate ([#19361](https://github.com/truecharts/charts/issues/19361))
 
 
+## [static-web-server-4.8.0](https://github.com/truecharts/charts/compare/static-web-server-4.7.0...static-web-server-4.8.0) (2024-03-16)
+
+### Chore
+
+
+
+- update container image common to v20.2.0[@91ade87](https://github.com/91ade87) by renovate ([#19361](https://github.com/truecharts/charts/issues/19361))
+
+
 ## [static-web-server-4.7.0](https://github.com/truecharts/charts/compare/static-web-server-4.6.2...static-web-server-4.7.0) (2024-03-16)
 
 ### Chore
@@ -87,13 +96,4 @@ title: Changelog
 
 
 - update container image ghcr.io/static-web-server/static-web-server to v2.28.0[@542265a](https://github.com/542265a) by renovate ([#19105](https://github.com/truecharts/charts/issues/19105))
-
-
-## [static-web-server-4.4.1](https://github.com/truecharts/charts/compare/static-web-server-4.4.0...static-web-server-4.4.1) (2024-03-07)
-
-### Chore
-
-
-
-- bump everything to trigger re-release
 

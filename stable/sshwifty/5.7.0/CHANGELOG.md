@@ -44,6 +44,15 @@ title: Changelog
 - update container image common to v20.2.0[@91ade87](https://github.com/91ade87) by renovate ([#19361](https://github.com/truecharts/charts/issues/19361))
 
 
+## [sshwifty-5.7.0](https://github.com/truecharts/charts/compare/sshwifty-5.6.0...sshwifty-5.7.0) (2024-03-16)
+
+### Chore
+
+
+
+- update container image common to v20.2.0[@91ade87](https://github.com/91ade87) by renovate ([#19361](https://github.com/truecharts/charts/issues/19361))
+
+
 ## [sshwifty-5.6.0](https://github.com/truecharts/charts/compare/sshwifty-5.5.2...sshwifty-5.6.0) (2024-03-16)
 
 ### Chore
@@ -87,13 +96,4 @@ title: Changelog
 
 
 - update container image niruix/sshwifty to latest[@43fc2c9](https://github.com/43fc2c9) by renovate ([#19036](https://github.com/truecharts/charts/issues/19036))
-
-
-## [sshwifty-5.4.1](https://github.com/truecharts/charts/compare/sshwifty-5.4.0...sshwifty-5.4.1) (2024-03-07)
-
-### Chore
-
-
-
-- bump everything to trigger re-release
 

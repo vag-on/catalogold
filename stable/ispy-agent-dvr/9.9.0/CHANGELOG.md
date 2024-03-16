@@ -44,6 +44,15 @@ title: Changelog
 - update container image common to v20.2.0[@91ade87](https://github.com/91ade87) by renovate ([#19361](https://github.com/truecharts/charts/issues/19361))
 
 
+## [ispy-agent-dvr-9.9.0](https://github.com/truecharts/charts/compare/ispy-agent-dvr-9.8.0...ispy-agent-dvr-9.9.0) (2024-03-16)
+
+### Chore
+
+
+
+- update container image common to v20.2.0[@91ade87](https://github.com/91ade87) by renovate ([#19361](https://github.com/truecharts/charts/issues/19361))
+
+
 ## [ispy-agent-dvr-9.8.0](https://github.com/truecharts/charts/compare/ispy-agent-dvr-9.7.2...ispy-agent-dvr-9.8.0) (2024-03-16)
 
 ### Chore
@@ -87,13 +96,4 @@ title: Changelog
 
 
 - Add persistence for ffmpeg6 and fix scale q's ([#19149](https://github.com/truecharts/charts/issues/19149))
-
-
-## [ispy-agent-dvr-9.5.2](https://github.com/truecharts/charts/compare/ispy-agent-dvr-9.5.1...ispy-agent-dvr-9.5.2) (2024-03-11)
-
-### Chore
-
-
-
-- update container image doitandbedone/ispyagentdvr to v5.3.2.0[@65e629a](https://github.com/65e629a) by renovate ([#19059](https://github.com/truecharts/charts/issues/19059))
 

@@ -44,6 +44,15 @@ title: Changelog
 - update container image common to v20.2.0[@91ade87](https://github.com/91ade87) by renovate ([#19361](https://github.com/truecharts/charts/issues/19361))
 
 
+## [minio-11.8.0](https://github.com/truecharts/charts/compare/minio-11.7.0...minio-11.8.0) (2024-03-16)
+
+### Chore
+
+
+
+- update container image common to v20.2.0[@91ade87](https://github.com/91ade87) by renovate ([#19361](https://github.com/truecharts/charts/issues/19361))
+
+
 ## [minio-11.7.0](https://github.com/truecharts/charts/compare/minio-11.6.2...minio-11.7.0) (2024-03-16)
 
 ### Chore
@@ -87,13 +96,4 @@ title: Changelog
 
 
 - update container image minio/minio to vrelease.2024-03-10t02-53-48z[@b9e644d](https://github.com/b9e644d) by renovate ([#19080](https://github.com/truecharts/charts/issues/19080))
-
-
-## [minio-11.5.1](https://github.com/truecharts/charts/compare/minio-11.5.0...minio-11.5.1) (2024-03-07)
-
-### Chore
-
-
-
-- bump everything to trigger re-release
 

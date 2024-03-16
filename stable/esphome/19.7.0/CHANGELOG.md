@@ -44,6 +44,15 @@ title: Changelog
 - update container image common to v20.2.0[@91ade87](https://github.com/91ade87) by renovate ([#19361](https://github.com/truecharts/charts/issues/19361))
 
 
+## [esphome-19.7.0](https://github.com/truecharts/charts/compare/esphome-19.6.0...esphome-19.7.0) (2024-03-16)
+
+### Chore
+
+
+
+- update container image common to v20.2.0[@91ade87](https://github.com/91ade87) by renovate ([#19361](https://github.com/truecharts/charts/issues/19361))
+
+
 ## [esphome-19.6.0](https://github.com/truecharts/charts/compare/esphome-19.5.2...esphome-19.6.0) (2024-03-16)
 
 ### Chore
@@ -87,13 +96,4 @@ title: Changelog
 
 
 - update container image esphome/esphome to v2024.2.2[@abdd075](https://github.com/abdd075) by renovate ([#19060](https://github.com/truecharts/charts/issues/19060))
-
-
-## [esphome-19.4.1](https://github.com/truecharts/charts/compare/esphome-19.4.0...esphome-19.4.1) (2024-03-07)
-
-### Chore
-
-
-
-- bump everything to trigger re-release
 

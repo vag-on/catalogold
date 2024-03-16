@@ -44,6 +44,15 @@ title: Changelog
 - update container image common to v20.2.0[@91ade87](https://github.com/91ade87) by renovate ([#19361](https://github.com/truecharts/charts/issues/19361))
 
 
+## [webp-server-5.7.0](https://github.com/truecharts/charts/compare/webp-server-5.6.0...webp-server-5.7.0) (2024-03-16)
+
+### Chore
+
+
+
+- update container image common to v20.2.0[@91ade87](https://github.com/91ade87) by renovate ([#19361](https://github.com/truecharts/charts/issues/19361))
+
+
 ## [webp-server-5.6.0](https://github.com/truecharts/charts/compare/webp-server-5.5.2...webp-server-5.6.0) (2024-03-16)
 
 ### Chore
@@ -87,13 +96,4 @@ title: Changelog
 
 
 - bump everything to trigger re-release
-
-
-## [webp-server-5.4.0](https://github.com/truecharts/charts/compare/webp-server-5.3.0...webp-server-5.4.0) (2024-03-07)
-
-### Chore
-
-
-
-- update container image common to v19.0.0[@eef2062](https://github.com/eef2062) by renovate ([#18956](https://github.com/truecharts/charts/issues/18956))
 
