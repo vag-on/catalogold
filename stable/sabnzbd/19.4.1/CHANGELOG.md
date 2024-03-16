@@ -53,6 +53,15 @@ title: Changelog
 - update container image ghcr.io/onedr0p/sabnzbd to 4.2.3[@fa8ddea](https://github.com/fa8ddea) by renovate ([#19259](https://github.com/truecharts/charts/issues/19259))
 
 
+## [sabnzbd-19.4.1](https://github.com/truecharts/charts/compare/sabnzbd-19.4.0...sabnzbd-19.4.1) (2024-03-16)
+
+### Chore
+
+
+
+- update container image ghcr.io/onedr0p/sabnzbd to 4.2.3[@fa8ddea](https://github.com/fa8ddea) by renovate ([#19259](https://github.com/truecharts/charts/issues/19259))
+
+
 ## [sabnzbd-19.4.0](https://github.com/truecharts/charts/compare/sabnzbd-19.3.2...sabnzbd-19.4.0) (2024-03-16)
 
 ### Chore
@@ -87,13 +96,4 @@ title: Changelog
 
 
 - update container image common to v20.0.6[@5f6c753](https://github.com/5f6c753) by renovate ([#19131](https://github.com/truecharts/charts/issues/19131))
-
-
-## [sabnzbd-19.2.2](https://github.com/truecharts/charts/compare/sabnzbd-19.2.1...sabnzbd-19.2.2) (2024-03-11)
-
-### Chore
-
-
-
-- update container image ghcr.io/onedr0p/sabnzbd to v4.2.3[@b217130](https://github.com/b217130) by renovate ([#19144](https://github.com/truecharts/charts/issues/19144))
 

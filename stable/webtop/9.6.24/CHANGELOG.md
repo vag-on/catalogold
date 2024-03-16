@@ -53,6 +53,15 @@ title: Changelog
 - update webtop by renovate ([#19296](https://github.com/truecharts/charts/issues/19296))
 
 
+## [webtop-9.6.24](https://github.com/truecharts/charts/compare/webtop-9.6.0...webtop-9.6.24) (2024-03-16)
+
+### Chore
+
+
+
+- update webtop by renovate ([#19296](https://github.com/truecharts/charts/issues/19296))
+
+
 ## [webtop-9.6.0](https://github.com/truecharts/charts/compare/webtop-9.5.2...webtop-9.6.0) (2024-03-16)
 
 ### Chore
@@ -87,13 +96,4 @@ title: Changelog
 
 
 - update container image common to v20.0.6[@5f6c753](https://github.com/5f6c753) by renovate ([#19131](https://github.com/truecharts/charts/issues/19131))
-
-
-## [webtop-9.4.25](https://github.com/truecharts/charts/compare/webtop-9.4.1...webtop-9.4.25) (2024-03-11)
-
-### Chore
-
-
-
-- update webtop by renovate ([#19051](https://github.com/truecharts/charts/issues/19051))
 

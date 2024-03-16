@@ -53,6 +53,15 @@ title: Changelog
 - update container image ixsystems/truecommand to v3.0.1[@df4fe22](https://github.com/df4fe22) by renovate ([#19314](https://github.com/truecharts/charts/issues/19314))
 
 
+## [truecommand-19.6.1](https://github.com/truecharts/charts/compare/truecommand-19.6.0...truecommand-19.6.1) (2024-03-16)
+
+### Chore
+
+
+
+- update container image ixsystems/truecommand to v3.0.1[@df4fe22](https://github.com/df4fe22) by renovate ([#19314](https://github.com/truecharts/charts/issues/19314))
+
+
 ## [truecommand-19.6.0](https://github.com/truecharts/charts/compare/truecommand-19.5.2...truecommand-19.6.0) (2024-03-16)
 
 ### Chore
@@ -87,13 +96,4 @@ title: Changelog
 
 
 - update container image common to v20.0.6[@5f6c753](https://github.com/5f6c753) by renovate ([#19131](https://github.com/truecharts/charts/issues/19131))
-
-
-## [truecommand-19.4.1](https://github.com/truecharts/charts/compare/truecommand-19.4.0...truecommand-19.4.1) (2024-03-07)
-
-### Chore
-
-
-
-- bump everything to trigger re-release
 

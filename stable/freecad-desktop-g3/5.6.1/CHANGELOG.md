@@ -71,6 +71,15 @@ title: Changelog
 - update container image accetto/ubuntu-vnc-xfce-freecad-g3 to latest[@1d9cdbd](https://github.com/1d9cdbd) by renovate ([#19213](https://github.com/truecharts/charts/issues/19213))
 
 
+## [freecad-desktop-g3-5.6.1](https://github.com/truecharts/charts/compare/freecad-desktop-g3-5.6.0...freecad-desktop-g3-5.6.1) (2024-03-16)
+
+### Chore
+
+
+
+- update container image accetto/ubuntu-vnc-xfce-freecad-g3 to latest[@1d9cdbd](https://github.com/1d9cdbd) by renovate ([#19213](https://github.com/truecharts/charts/issues/19213))
+
+
 ## [freecad-desktop-g3-5.6.0](https://github.com/truecharts/charts/compare/freecad-desktop-g3-5.5.2...freecad-desktop-g3-5.6.0) (2024-03-16)
 
 ### Chore
@@ -87,13 +96,4 @@ title: Changelog
 
 
 - update container image common to v20.0.9[@caa8bac](https://github.com/caa8bac) by renovate ([#19179](https://github.com/truecharts/charts/issues/19179))
-
-
-## [freecad-desktop-g3-5.5.1](https://github.com/truecharts/charts/compare/freecad-desktop-g3-5.5.0...freecad-desktop-g3-5.5.1) (2024-03-12)
-
-### Chore
-
-
-
-- update container image common to v20.0.8[@021a874](https://github.com/021a874) by renovate ([#19175](https://github.com/truecharts/charts/issues/19175))
 
