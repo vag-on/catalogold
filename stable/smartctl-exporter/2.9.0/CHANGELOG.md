@@ -35,6 +35,15 @@ title: Changelog
 - update container image common to v20.2.0[@91ade87](https://github.com/91ade87) by renovate ([#19361](https://github.com/truecharts/charts/issues/19361))
 
 
+## [smartctl-exporter-2.9.0](https://github.com/truecharts/charts/compare/smartctl-exporter-2.8.0...smartctl-exporter-2.9.0) (2024-03-16)
+
+### Chore
+
+
+
+- update container image common to v20.2.0[@91ade87](https://github.com/91ade87) by renovate ([#19361](https://github.com/truecharts/charts/issues/19361))
+
+
 ## [smartctl-exporter-2.8.0](https://github.com/truecharts/charts/compare/smartctl-exporter-2.7.2...smartctl-exporter-2.8.0) (2024-03-16)
 
 ### Chore
@@ -87,13 +96,4 @@ title: Changelog
 
 
 - update container image common to v19.0.0[@eef2062](https://github.com/eef2062) by renovate ([#18956](https://github.com/truecharts/charts/issues/18956))
-
-
-## [smartctl-exporter-2.5.0](https://github.com/truecharts/charts/compare/smartctl-exporter-2.4.3...smartctl-exporter-2.5.0) (2024-03-06)
-
-### Chore
-
-
-
-- update container image common to v18.2.0[@9e8b7d4](https://github.com/9e8b7d4) by renovate ([#18943](https://github.com/truecharts/charts/issues/18943))
 

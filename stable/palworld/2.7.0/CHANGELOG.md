@@ -35,6 +35,15 @@ title: Changelog
 - update container image common to v20.2.0[@91ade87](https://github.com/91ade87) by renovate ([#19361](https://github.com/truecharts/charts/issues/19361))
 
 
+## [palworld-2.7.0](https://github.com/truecharts/charts/compare/palworld-2.6.0...palworld-2.7.0) (2024-03-16)
+
+### Chore
+
+
+
+- update container image common to v20.2.0[@91ade87](https://github.com/91ade87) by renovate ([#19361](https://github.com/truecharts/charts/issues/19361))
+
+
 ## [palworld-2.6.0](https://github.com/truecharts/charts/compare/palworld-2.5.2...palworld-2.6.0) (2024-03-16)
 
 ### Chore
@@ -87,13 +96,4 @@ title: Changelog
 
 
 - update container image common to v19.0.0[@eef2062](https://github.com/eef2062) by renovate ([#18956](https://github.com/truecharts/charts/issues/18956))
-
-
-## [palworld-2.3.1](https://github.com/truecharts/charts/compare/palworld-2.3.0...palworld-2.3.1) (2024-03-06)
-
-
-## [palworld-2.3.0](https://github.com/truecharts/charts/compare/palworld-2.2.3...palworld-2.3.0) (2024-03-06)
-
-### Chore
-
 

@@ -35,6 +35,15 @@ title: Changelog
 - update container image common to v20.2.0[@91ade87](https://github.com/91ade87) by renovate ([#19361](https://github.com/truecharts/charts/issues/19361))
 
 
+## [bitmagnet-1.8.0](https://github.com/truecharts/charts/compare/bitmagnet-1.7.0...bitmagnet-1.8.0) (2024-03-16)
+
+### Chore
+
+
+
+- update container image common to v20.2.0[@91ade87](https://github.com/91ade87) by renovate ([#19361](https://github.com/truecharts/charts/issues/19361))
+
+
 ## [bitmagnet-1.7.0](https://github.com/truecharts/charts/compare/bitmagnet-1.6.2...bitmagnet-1.7.0) (2024-03-16)
 
 ### Chore
@@ -87,13 +96,4 @@ title: Changelog
 
 
 - update container image ghcr.io/bitmagnet-io/bitmagnet to v0.7.12[@07c9c43](https://github.com/07c9c43) by renovate ([#19063](https://github.com/truecharts/charts/issues/19063))
-
-
-## [bitmagnet-1.5.1](https://github.com/truecharts/charts/compare/bitmagnet-1.5.0...bitmagnet-1.5.1) (2024-03-07)
-
-### Chore
-
-
-
-- bump everything to trigger re-release
 
