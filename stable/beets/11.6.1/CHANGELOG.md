@@ -44,6 +44,15 @@ title: Changelog
 - update container image ghcr.io/linuxserver/beets to version-1.6.0[@2bd5292](https://github.com/2bd5292) by renovate ([#19228](https://github.com/truecharts/charts/issues/19228))
 
 
+## [beets-11.6.1](https://github.com/truecharts/charts/compare/beets-11.6.0...beets-11.6.1) (2024-03-16)
+
+### Chore
+
+
+
+- update container image ghcr.io/linuxserver/beets to version-1.6.0[@2bd5292](https://github.com/2bd5292) by renovate ([#19228](https://github.com/truecharts/charts/issues/19228))
+
+
 ## [beets-11.6.0](https://github.com/truecharts/charts/compare/beets-11.5.2...beets-11.6.0) (2024-03-16)
 
 ### Chore
@@ -87,13 +96,4 @@ title: Changelog
 
 
 - update container image ghcr.io/linuxserver/beets to version-1.6.0[@b6de96a](https://github.com/b6de96a) by renovate ([#18990](https://github.com/truecharts/charts/issues/18990))
-
-
-## [beets-11.4.1](https://github.com/truecharts/charts/compare/beets-11.4.0...beets-11.4.1) (2024-03-07)
-
-### Chore
-
-
-
-- bump everything to trigger re-release
 

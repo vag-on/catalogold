@@ -35,6 +35,15 @@ title: Changelog
 - update container image codetheweb/muse to v2.7.0[@961fce6](https://github.com/961fce6) by renovate ([#19335](https://github.com/truecharts/charts/issues/19335))
 
 
+## [muse-5.8.0](https://github.com/truecharts/charts/compare/muse-5.7.0...muse-5.8.0) (2024-03-16)
+
+### Chore
+
+
+
+- update container image codetheweb/muse to v2.7.0[@961fce6](https://github.com/961fce6) by renovate ([#19335](https://github.com/truecharts/charts/issues/19335))
+
+
 ## [muse-5.7.0](https://github.com/truecharts/charts/compare/muse-5.6.2...muse-5.7.0) (2024-03-16)
 
 ### Chore
@@ -87,13 +96,4 @@ title: Changelog
 
 
 - update container image common to v19.0.0[@eef2062](https://github.com/eef2062) by renovate ([#18956](https://github.com/truecharts/charts/issues/18956))
-
-
-## [muse-5.4.0](https://github.com/truecharts/charts/compare/muse-5.3.3...muse-5.4.0) (2024-03-06)
-
-### Chore
-
-
-
-- update container image common to v18.2.0[@9e8b7d4](https://github.com/9e8b7d4) by renovate ([#18943](https://github.com/truecharts/charts/issues/18943))
 

@@ -44,6 +44,15 @@ title: Changelog
 - update container image ghcr.io/linuxserver/doublecommander to latest[@908d49e](https://github.com/908d49e) by renovate ([#19234](https://github.com/truecharts/charts/issues/19234))
 
 
+## [doublecommander-12.6.1](https://github.com/truecharts/charts/compare/doublecommander-12.6.0...doublecommander-12.6.1) (2024-03-16)
+
+### Chore
+
+
+
+- update container image ghcr.io/linuxserver/doublecommander to latest[@908d49e](https://github.com/908d49e) by renovate ([#19234](https://github.com/truecharts/charts/issues/19234))
+
+
 ## [doublecommander-12.6.0](https://github.com/truecharts/charts/compare/doublecommander-12.5.2...doublecommander-12.6.0) (2024-03-16)
 
 ### Chore
@@ -87,13 +96,4 @@ title: Changelog
 
 
 - update container image ghcr.io/linuxserver/doublecommander to latest[@0166cf4](https://github.com/0166cf4) by renovate ([#18996](https://github.com/truecharts/charts/issues/18996))
-
-
-## [doublecommander-12.4.1](https://github.com/truecharts/charts/compare/doublecommander-12.4.0...doublecommander-12.4.1) (2024-03-07)
-
-### Chore
-
-
-
-- bump everything to trigger re-release
 

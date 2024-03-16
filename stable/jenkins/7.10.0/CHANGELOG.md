@@ -35,6 +35,15 @@ title: Changelog
 - update container image jenkins/jenkins to v2.449-jdk17[@38c1f36](https://github.com/38c1f36) by renovate ([#19344](https://github.com/truecharts/charts/issues/19344))
 
 
+## [jenkins-7.10.0](https://github.com/truecharts/charts/compare/jenkins-7.9.0...jenkins-7.10.0) (2024-03-16)
+
+### Chore
+
+
+
+- update container image jenkins/jenkins to v2.449-jdk17[@38c1f36](https://github.com/38c1f36) by renovate ([#19344](https://github.com/truecharts/charts/issues/19344))
+
+
 ## [jenkins-7.9.0](https://github.com/truecharts/charts/compare/jenkins-7.8.2...jenkins-7.9.0) (2024-03-16)
 
 ### Chore
@@ -87,13 +96,4 @@ title: Changelog
 
 
 - bump everything to trigger re-release
-
-
-## [jenkins-7.6.0](https://github.com/truecharts/charts/compare/jenkins-7.5.0...jenkins-7.6.0) (2024-03-07)
-
-### Chore
-
-
-
-- update container image common to v19.0.0[@eef2062](https://github.com/eef2062) by renovate ([#18956](https://github.com/truecharts/charts/issues/18956))
 

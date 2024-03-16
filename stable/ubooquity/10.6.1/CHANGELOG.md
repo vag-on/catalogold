@@ -35,6 +35,15 @@ title: Changelog
 - update container image ghcr.io/linuxserver/ubooquity to 2.1.2[@4291fa5](https://github.com/4291fa5) by renovate ([#19249](https://github.com/truecharts/charts/issues/19249))
 
 
+## [ubooquity-10.6.1](https://github.com/truecharts/charts/compare/ubooquity-10.6.0...ubooquity-10.6.1) (2024-03-16)
+
+### Chore
+
+
+
+- update container image ghcr.io/linuxserver/ubooquity to 2.1.2[@4291fa5](https://github.com/4291fa5) by renovate ([#19249](https://github.com/truecharts/charts/issues/19249))
+
+
 ## [ubooquity-10.6.0](https://github.com/truecharts/charts/compare/ubooquity-10.5.2...ubooquity-10.6.0) (2024-03-16)
 
 ### Chore
@@ -87,13 +96,4 @@ title: Changelog
 
 
 - bump everything to trigger re-release
-
-
-## [ubooquity-10.4.0](https://github.com/truecharts/charts/compare/ubooquity-10.3.0...ubooquity-10.4.0) (2024-03-07)
-
-### Chore
-
-
-
-- update container image common to v19.0.0[@eef2062](https://github.com/eef2062) by renovate ([#18956](https://github.com/truecharts/charts/issues/18956))
 

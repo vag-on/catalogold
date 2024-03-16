@@ -35,6 +35,15 @@ title: Changelog
 - update container image redis to v13.0.5[@01c1933](https://github.com/01c1933) by renovate ([#19324](https://github.com/truecharts/charts/issues/19324))
 
 
+## [weblate-13.6.1](https://github.com/truecharts/charts/compare/weblate-13.6.0...weblate-13.6.1) (2024-03-16)
+
+### Chore
+
+
+
+- update container image redis to v13.0.5[@01c1933](https://github.com/01c1933) by renovate ([#19324](https://github.com/truecharts/charts/issues/19324))
+
+
 ## [weblate-13.6.0](https://github.com/truecharts/charts/compare/weblate-13.5.4...weblate-13.6.0) (2024-03-16)
 
 ### Chore
@@ -89,12 +98,3 @@ title: Changelog
 
 
 - update container image redis to v13.0.0[@eb8bd23](https://github.com/eb8bd23) by renovate ([#19146](https://github.com/truecharts/charts/issues/19146))
-
-
-## [weblate-13.4.1](https://github.com/truecharts/charts/compare/weblate-13.4.0...weblate-13.4.1) (2024-03-07)
-
-### Chore
-
-
-
-- bump everything to trigger re-release

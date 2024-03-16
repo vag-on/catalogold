@@ -35,6 +35,15 @@ title: Changelog
 - update container image ronivay/xen-orchestra to 5.138.1[@bfb0711](https://github.com/bfb0711) by renovate ([#19284](https://github.com/truecharts/charts/issues/19284))
 
 
+## [xen-orchestra-8.7.1](https://github.com/truecharts/charts/compare/xen-orchestra-8.7.0...xen-orchestra-8.7.1) (2024-03-16)
+
+### Chore
+
+
+
+- update container image ronivay/xen-orchestra to 5.138.1[@bfb0711](https://github.com/bfb0711) by renovate ([#19284](https://github.com/truecharts/charts/issues/19284))
+
+
 ## [xen-orchestra-8.7.0](https://github.com/truecharts/charts/compare/xen-orchestra-8.6.2...xen-orchestra-8.7.0) (2024-03-16)
 
 ### Chore
@@ -87,13 +96,4 @@ title: Changelog
 
 
 - bump everything to trigger re-release
-
-
-## [xen-orchestra-8.5.0](https://github.com/truecharts/charts/compare/xen-orchestra-8.4.0...xen-orchestra-8.5.0) (2024-03-07)
-
-### Chore
-
-
-
-- update container image common to v19.0.0[@eef2062](https://github.com/eef2062) by renovate ([#18956](https://github.com/truecharts/charts/issues/18956))
 

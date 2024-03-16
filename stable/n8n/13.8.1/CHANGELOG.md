@@ -41,6 +41,17 @@ title: Changelog
 - update container image n8nio/n8n to v1.32.2[@166ea81](https://github.com/166ea81) by renovate ([#19322](https://github.com/truecharts/charts/issues/19322))
 
 
+## [n8n-13.8.1](https://github.com/truecharts/charts/compare/n8n-13.8.0...n8n-13.8.1) (2024-03-16)
+
+### Chore
+
+
+
+- update container image redis to v13.0.5[@01c1933](https://github.com/01c1933) by renovate ([#19324](https://github.com/truecharts/charts/issues/19324))
+
+- update container image n8nio/n8n to v1.32.2[@166ea81](https://github.com/166ea81) by renovate ([#19322](https://github.com/truecharts/charts/issues/19322))
+
+
 ## [n8n-13.8.0](https://github.com/truecharts/charts/compare/n8n-13.7.4...n8n-13.8.0) (2024-03-16)
 
 ### Chore
@@ -86,15 +97,3 @@ title: Changelog
 - update container image redis to v13.0.1[@59b7b0e](https://github.com/59b7b0e) by renovate ([#19168](https://github.com/truecharts/charts/issues/19168))
 
 - update container image common to v20.0.6[@5f6c753](https://github.com/5f6c753) by renovate ([#19131](https://github.com/truecharts/charts/issues/19131))
-
-
-## [n8n-13.7.0](https://github.com/truecharts/charts/compare/n8n-13.6.0...n8n-13.7.0) (2024-03-11)
-
-### Chore
-
-
-
-- update container image redis to v13.0.0[@eb8bd23](https://github.com/eb8bd23) by renovate ([#19146](https://github.com/truecharts/charts/issues/19146))
-
-
-## [n8n-13.6.0](https://github.com/truecharts/charts/compare/n8n-13.5.2...n8n-13.6.0) (2024-03-11)

@@ -26,6 +26,15 @@ title: Changelog
 - update container image mongodb to v12.5.4[@82d3dea](https://github.com/82d3dea) by renovate ([#19321](https://github.com/truecharts/charts/issues/19321))
 
 
+## [youtubedl-material-10.7.1](https://github.com/truecharts/charts/compare/youtubedl-material-10.7.0...youtubedl-material-10.7.1) (2024-03-16)
+
+### Chore
+
+
+
+- update container image mongodb to v12.5.4[@82d3dea](https://github.com/82d3dea) by renovate ([#19321](https://github.com/truecharts/charts/issues/19321))
+
+
 ## [youtubedl-material-10.7.0](https://github.com/truecharts/charts/compare/youtubedl-material-10.6.3...youtubedl-material-10.7.0) (2024-03-16)
 
 ### Chore
@@ -87,13 +96,4 @@ title: Changelog
 
 
 - bump everything to trigger re-release
-
-
-## [youtubedl-material-10.4.0](https://github.com/truecharts/charts/compare/youtubedl-material-10.3.0...youtubedl-material-10.4.0) (2024-03-07)
-
-### Chore
-
-
-
-- update container image common to v19.0.0[@eef2062](https://github.com/eef2062) by renovate ([#18956](https://github.com/truecharts/charts/issues/18956))
 
