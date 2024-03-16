@@ -44,6 +44,15 @@ title: Changelog
 - update container image sublivion/gridcoinwalletgui to latest[@2b38f4a](https://github.com/2b38f4a) by renovate ([#19287](https://github.com/truecharts/charts/issues/19287))
 
 
+## [gridcoinwalletgui-5.6.1](https://github.com/truecharts/charts/compare/gridcoinwalletgui-5.6.0...gridcoinwalletgui-5.6.1) (2024-03-16)
+
+### Chore
+
+
+
+- update container image sublivion/gridcoinwalletgui to latest[@2b38f4a](https://github.com/2b38f4a) by renovate ([#19287](https://github.com/truecharts/charts/issues/19287))
+
+
 ## [gridcoinwalletgui-5.6.0](https://github.com/truecharts/charts/compare/gridcoinwalletgui-5.5.2...gridcoinwalletgui-5.6.0) (2024-03-16)
 
 ### Chore
@@ -87,13 +96,4 @@ title: Changelog
 
 
 - update container image sublivion/gridcoinwalletgui to latest[@43ca0b9](https://github.com/43ca0b9) by renovate ([#19042](https://github.com/truecharts/charts/issues/19042))
-
-
-## [gridcoinwalletgui-5.4.1](https://github.com/truecharts/charts/compare/gridcoinwalletgui-5.4.0...gridcoinwalletgui-5.4.1) (2024-03-07)
-
-### Chore
-
-
-
-- bump everything to trigger re-release
 

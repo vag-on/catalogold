@@ -17,6 +17,15 @@ title: Changelog
 - update container image ghcr.io/linuxserver/tvheadend to latest[@b04a8ce](https://github.com/b04a8ce) by renovate ([#19354](https://github.com/truecharts/charts/issues/19354))
 
 
+## [tvheadend-19.6.1](https://github.com/truecharts/charts/compare/tvheadend-19.6.0...tvheadend-19.6.1) (2024-03-16)
+
+### Chore
+
+
+
+- update container image ghcr.io/linuxserver/tvheadend to latest[@b04a8ce](https://github.com/b04a8ce) by renovate ([#19354](https://github.com/truecharts/charts/issues/19354))
+
+
 ## [tvheadend-19.6.0](https://github.com/truecharts/charts/compare/tvheadend-19.5.2...tvheadend-19.6.0) (2024-03-16)
 
 ### Chore
@@ -88,13 +97,3 @@ title: Changelog
 
 - bump everything to force helm release again
 
-
-## [tvheadend-19.2.3](https://github.com/truecharts/charts/compare/tvheadend-19.2.1...tvheadend-19.2.3) (2024-03-05)
-
-### Chore
-
-
-
-- force rereleases
-
-- update container image common to v18.1.6[@904d84b](https://github.com/904d84b) by renovate ([#18835](https://github.com/truecharts/charts/issues/18835))

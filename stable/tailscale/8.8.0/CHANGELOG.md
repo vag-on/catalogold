@@ -44,6 +44,15 @@ title: Changelog
 - update container image tailscale/tailscale to v1.62.0[@22a86da](https://github.com/22a86da) by renovate ([#19348](https://github.com/truecharts/charts/issues/19348))
 
 
+## [tailscale-8.8.0](https://github.com/truecharts/charts/compare/tailscale-8.7.0...tailscale-8.8.0) (2024-03-16)
+
+### Chore
+
+
+
+- update container image tailscale/tailscale to v1.62.0[@22a86da](https://github.com/22a86da) by renovate ([#19348](https://github.com/truecharts/charts/issues/19348))
+
+
 ## [tailscale-8.7.0](https://github.com/truecharts/charts/compare/tailscale-8.6.2...tailscale-8.7.0) (2024-03-16)
 
 ### Chore
@@ -87,13 +96,4 @@ title: Changelog
 
 
 - bump everything to trigger re-release
-
-
-## [tailscale-8.5.0](https://github.com/truecharts/charts/compare/tailscale-8.4.0...tailscale-8.5.0) (2024-03-07)
-
-### Chore
-
-
-
-- update container image common to v19.0.0[@eef2062](https://github.com/eef2062) by renovate ([#18956](https://github.com/truecharts/charts/issues/18956))
 

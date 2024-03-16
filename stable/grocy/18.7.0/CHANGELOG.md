@@ -44,6 +44,15 @@ title: Changelog
 - update container image ghcr.io/linuxserver/grocy to v4.2.0[@fa48490](https://github.com/fa48490) by renovate ([#19341](https://github.com/truecharts/charts/issues/19341))
 
 
+## [grocy-18.7.0](https://github.com/truecharts/charts/compare/grocy-18.6.0...grocy-18.7.0) (2024-03-16)
+
+### Chore
+
+
+
+- update container image ghcr.io/linuxserver/grocy to v4.2.0[@fa48490](https://github.com/fa48490) by renovate ([#19341](https://github.com/truecharts/charts/issues/19341))
+
+
 ## [grocy-18.6.0](https://github.com/truecharts/charts/compare/grocy-18.5.2...grocy-18.6.0) (2024-03-16)
 
 ### Chore
@@ -87,13 +96,4 @@ title: Changelog
 
 
 - update container image ghcr.io/linuxserver/grocy to 4.1.0[@fd185cd](https://github.com/fd185cd) by renovate ([#19002](https://github.com/truecharts/charts/issues/19002))
-
-
-## [grocy-18.4.1](https://github.com/truecharts/charts/compare/grocy-18.4.0...grocy-18.4.1) (2024-03-07)
-
-### Chore
-
-
-
-- bump everything to trigger re-release
 

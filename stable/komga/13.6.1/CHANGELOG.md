@@ -44,6 +44,15 @@ title: Changelog
 - update container image gotson/komga to v1.10.4[@5b4f581](https://github.com/5b4f581) by renovate ([#19312](https://github.com/truecharts/charts/issues/19312))
 
 
+## [komga-13.6.1](https://github.com/truecharts/charts/compare/komga-13.6.0...komga-13.6.1) (2024-03-16)
+
+### Chore
+
+
+
+- update container image gotson/komga to v1.10.4[@5b4f581](https://github.com/5b4f581) by renovate ([#19312](https://github.com/truecharts/charts/issues/19312))
+
+
 ## [komga-13.6.0](https://github.com/truecharts/charts/compare/komga-13.5.2...komga-13.6.0) (2024-03-16)
 
 ### Chore
@@ -87,13 +96,4 @@ title: Changelog
 
 
 - bump everything to trigger re-release
-
-
-## [komga-13.4.0](https://github.com/truecharts/charts/compare/komga-13.3.0...komga-13.4.0) (2024-03-07)
-
-### Chore
-
-
-
-- update container image common to v19.0.0[@eef2062](https://github.com/eef2062) by renovate ([#18956](https://github.com/truecharts/charts/issues/18956))
 

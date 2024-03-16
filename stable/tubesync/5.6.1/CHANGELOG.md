@@ -44,6 +44,15 @@ title: Changelog
 - update container image ghcr.io/meeb/tubesync to latest[@4d50ddd](https://github.com/4d50ddd) by renovate ([#19251](https://github.com/truecharts/charts/issues/19251))
 
 
+## [tubesync-5.6.1](https://github.com/truecharts/charts/compare/tubesync-5.6.0...tubesync-5.6.1) (2024-03-16)
+
+### Chore
+
+
+
+- update container image ghcr.io/meeb/tubesync to latest[@4d50ddd](https://github.com/4d50ddd) by renovate ([#19251](https://github.com/truecharts/charts/issues/19251))
+
+
 ## [tubesync-5.6.0](https://github.com/truecharts/charts/compare/tubesync-5.5.2...tubesync-5.6.0) (2024-03-16)
 
 ### Chore
@@ -87,13 +96,4 @@ title: Changelog
 
 
 - update container image ghcr.io/meeb/tubesync to latest[@f51f781](https://github.com/f51f781) by renovate ([#19153](https://github.com/truecharts/charts/issues/19153))
-
-
-## [tubesync-5.4.1](https://github.com/truecharts/charts/compare/tubesync-5.4.0...tubesync-5.4.1) (2024-03-07)
-
-### Chore
-
-
-
-- bump everything to trigger re-release
 

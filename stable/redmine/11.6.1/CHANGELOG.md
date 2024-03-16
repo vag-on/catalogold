@@ -44,6 +44,15 @@ title: Changelog
 - update container image redmine to 5.1.2[@7bba7e9](https://github.com/7bba7e9) by renovate ([#19281](https://github.com/truecharts/charts/issues/19281))
 
 
+## [redmine-11.6.1](https://github.com/truecharts/charts/compare/redmine-11.6.0...redmine-11.6.1) (2024-03-16)
+
+### Chore
+
+
+
+- update container image redmine to 5.1.2[@7bba7e9](https://github.com/7bba7e9) by renovate ([#19281](https://github.com/truecharts/charts/issues/19281))
+
+
 ## [redmine-11.6.0](https://github.com/truecharts/charts/compare/redmine-11.5.2...redmine-11.6.0) (2024-03-16)
 
 ### Chore
@@ -87,13 +96,4 @@ title: Changelog
 
 
 - update container image redmine to v5.1.2[@66f381e](https://github.com/66f381e) by renovate ([#19084](https://github.com/truecharts/charts/issues/19084))
-
-
-## [redmine-11.4.1](https://github.com/truecharts/charts/compare/redmine-11.4.0...redmine-11.4.1) (2024-03-07)
-
-### Chore
-
-
-
-- bump everything to trigger re-release
 

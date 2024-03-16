@@ -44,6 +44,15 @@ title: Changelog
 - update container image ghcr.io/taxel/plextraktsync to v0.29.7[@a2dc236](https://github.com/a2dc236) by renovate ([#19310](https://github.com/truecharts/charts/issues/19310))
 
 
+## [plextraktsync-7.7.1](https://github.com/truecharts/charts/compare/plextraktsync-7.7.0...plextraktsync-7.7.1) (2024-03-16)
+
+### Chore
+
+
+
+- update container image ghcr.io/taxel/plextraktsync to v0.29.7[@a2dc236](https://github.com/a2dc236) by renovate ([#19310](https://github.com/truecharts/charts/issues/19310))
+
+
 ## [plextraktsync-7.7.0](https://github.com/truecharts/charts/compare/plextraktsync-7.6.2...plextraktsync-7.7.0) (2024-03-16)
 
 ### Chore
@@ -87,13 +96,4 @@ title: Changelog
 
 
 - update container image ghcr.io/taxel/plextraktsync to v0.29.6[@d8dda11](https://github.com/d8dda11) by renovate ([#19072](https://github.com/truecharts/charts/issues/19072))
-
-
-## [plextraktsync-7.5.1](https://github.com/truecharts/charts/compare/plextraktsync-7.5.0...plextraktsync-7.5.1) (2024-03-07)
-
-### Chore
-
-
-
-- bump everything to trigger re-release
 

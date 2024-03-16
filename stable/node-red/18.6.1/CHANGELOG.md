@@ -44,6 +44,15 @@ title: Changelog
 - update container image docker.io/nodered/node-red to v3.1.7[@b3bee63](https://github.com/b3bee63) by renovate ([#19302](https://github.com/truecharts/charts/issues/19302))
 
 
+## [node-red-18.6.1](https://github.com/truecharts/charts/compare/node-red-18.6.0...node-red-18.6.1) (2024-03-16)
+
+### Chore
+
+
+
+- update container image docker.io/nodered/node-red to v3.1.7[@b3bee63](https://github.com/b3bee63) by renovate ([#19302](https://github.com/truecharts/charts/issues/19302))
+
+
 ## [node-red-18.6.0](https://github.com/truecharts/charts/compare/node-red-18.5.2...node-red-18.6.0) (2024-03-16)
 
 ### Chore
@@ -87,13 +96,4 @@ title: Changelog
 
 
 - bump everything to trigger re-release
-
-
-## [node-red-18.4.0](https://github.com/truecharts/charts/compare/node-red-18.3.0...node-red-18.4.0) (2024-03-07)
-
-### Chore
-
-
-
-- update container image common to v19.0.0[@eef2062](https://github.com/eef2062) by renovate ([#18956](https://github.com/truecharts/charts/issues/18956))
 
