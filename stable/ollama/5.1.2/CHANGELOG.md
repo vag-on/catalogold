@@ -96,4 +96,4 @@ title: Changelog
 - update container image ghcr.io/open-webui/open-webui to latest[@74b95a7](https://github.com/74b95a7) by renovate ([#19262](https://github.com/truecharts/charts/issues/19262))
 
 
-## [ollama-5.1.1](https://github.com/truecharts/charts/compare/ollama-5.1.0...ollama-5.1.1) (2024-03-16)
+## [ollama-5.1.2](https://github.com/truecharts/charts/compare/ollama-5.1.1...ollama-5.1.2) (2024-03-16)

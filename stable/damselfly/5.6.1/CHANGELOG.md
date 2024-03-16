@@ -53,6 +53,15 @@ title: Changelog
 - update container image webreaper/damselfly to latest[@2956232](https://github.com/2956232) by renovate ([#19293](https://github.com/truecharts/charts/issues/19293))
 
 
+## [damselfly-5.6.1](https://github.com/truecharts/charts/compare/damselfly-5.6.0...damselfly-5.6.1) (2024-03-16)
+
+### Chore
+
+
+
+- update container image webreaper/damselfly to latest[@2956232](https://github.com/2956232) by renovate ([#19293](https://github.com/truecharts/charts/issues/19293))
+
+
 ## [damselfly-5.6.0](https://github.com/truecharts/charts/compare/damselfly-5.5.2...damselfly-5.6.0) (2024-03-16)
 
 ### Chore
@@ -87,13 +96,4 @@ title: Changelog
 
 
 - update container image common to v20.0.6[@5f6c753](https://github.com/5f6c753) by renovate ([#19131](https://github.com/truecharts/charts/issues/19131))
-
-
-## [damselfly-5.4.2](https://github.com/truecharts/charts/compare/damselfly-5.4.1...damselfly-5.4.2) (2024-03-11)
-
-### Chore
-
-
-
-- update container image webreaper/damselfly to latest[@f16e519](https://github.com/f16e519) by renovate ([#19045](https://github.com/truecharts/charts/issues/19045))
 

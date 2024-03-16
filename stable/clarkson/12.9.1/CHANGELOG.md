@@ -71,6 +71,15 @@ title: Changelog
 - update container image mariadb to v13.5.4[@f572f3a](https://github.com/f572f3a) by renovate ([#19318](https://github.com/truecharts/charts/issues/19318))
 
 
+## [clarkson-12.9.1](https://github.com/truecharts/charts/compare/clarkson-12.9.0...clarkson-12.9.1) (2024-03-16)
+
+### Chore
+
+
+
+- update container image mariadb to v13.5.4[@f572f3a](https://github.com/f572f3a) by renovate ([#19318](https://github.com/truecharts/charts/issues/19318))
+
+
 ## [clarkson-12.9.0](https://github.com/truecharts/charts/compare/clarkson-12.8.3...clarkson-12.9.0) (2024-03-16)
 
 ### Chore
@@ -87,13 +96,4 @@ title: Changelog
 
 
 - update container image mariadb to v13.5.2[@c30709c](https://github.com/c30709c) by renovate ([#19182](https://github.com/truecharts/charts/issues/19182))
-
-
-## [clarkson-12.8.2](https://github.com/truecharts/charts/compare/clarkson-12.8.1...clarkson-12.8.2) (2024-03-12)
-
-### Chore
-
-
-
-- update container image common to v20.0.9[@caa8bac](https://github.com/caa8bac) by renovate ([#19179](https://github.com/truecharts/charts/issues/19179))
 
