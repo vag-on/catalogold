@@ -35,6 +35,15 @@ title: Changelog
 - update container image kasmweb/workspaces to v1.15.1[@1b13b4f](https://github.com/1b13b4f) by renovate ([#19316](https://github.com/truecharts/charts/issues/19316))
 
 
+## [kasm-8.6.1](https://github.com/truecharts/charts/compare/kasm-8.6.0...kasm-8.6.1) (2024-03-16)
+
+### Chore
+
+
+
+- update container image kasmweb/workspaces to v1.15.1[@1b13b4f](https://github.com/1b13b4f) by renovate ([#19316](https://github.com/truecharts/charts/issues/19316))
+
+
 ## [kasm-8.6.0](https://github.com/truecharts/charts/compare/kasm-8.5.3...kasm-8.6.0) (2024-03-16)
 
 ### Chore
@@ -87,13 +96,4 @@ title: Changelog
 
 
 - bump everything to trigger re-release
-
-
-## [kasm-8.4.0](https://github.com/truecharts/charts/compare/kasm-8.3.0...kasm-8.4.0) (2024-03-07)
-
-### Chore
-
-
-
-- update container image common to v19.0.0[@eef2062](https://github.com/eef2062) by renovate ([#18956](https://github.com/truecharts/charts/issues/18956))
 

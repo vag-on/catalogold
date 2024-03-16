@@ -89,11 +89,11 @@ title: Changelog
 - update container image accetto/ubuntu-vnc-xfce-blender-g3 to latest[@7125ef7](https://github.com/7125ef7) by renovate ([#19212](https://github.com/truecharts/charts/issues/19212))
 
 
-## [blender-desktop-g3-5.6.0](https://github.com/truecharts/charts/compare/blender-desktop-g3-5.5.2...blender-desktop-g3-5.6.0) (2024-03-16)
+## [blender-desktop-g3-5.6.1](https://github.com/truecharts/charts/compare/blender-desktop-g3-5.6.0...blender-desktop-g3-5.6.1) (2024-03-16)
 
 ### Chore
 
 
 
-- update container image common to v20.1.5[@dc867e0](https://github.com/dc867e0) by renovate ([#19210](https://github.com/truecharts/charts/issues/19210))
+- update container image accetto/ubuntu-vnc-xfce-blender-g3 to latest[@7125ef7](https://github.com/7125ef7) by renovate ([#19212](https://github.com/truecharts/charts/issues/19212))
 

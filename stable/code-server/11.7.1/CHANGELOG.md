@@ -35,6 +35,15 @@ title: Changelog
 - update container image docker.io/codercom/code-server to v4.22.1[@62e1d25](https://github.com/62e1d25) by renovate ([#19301](https://github.com/truecharts/charts/issues/19301))
 
 
+## [code-server-11.7.1](https://github.com/truecharts/charts/compare/code-server-11.7.0...code-server-11.7.1) (2024-03-16)
+
+### Chore
+
+
+
+- update container image docker.io/codercom/code-server to v4.22.1[@62e1d25](https://github.com/62e1d25) by renovate ([#19301](https://github.com/truecharts/charts/issues/19301))
+
+
 ## [code-server-11.7.0](https://github.com/truecharts/charts/compare/code-server-11.6.2...code-server-11.7.0) (2024-03-16)
 
 ### Chore
@@ -87,13 +96,4 @@ title: Changelog
 
 
 - bump everything to trigger re-release
-
-
-## [code-server-11.5.0](https://github.com/truecharts/charts/compare/code-server-11.4.0...code-server-11.5.0) (2024-03-07)
-
-### Chore
-
-
-
-- update container image common to v19.0.0[@eef2062](https://github.com/eef2062) by renovate ([#18956](https://github.com/truecharts/charts/issues/18956))
 

@@ -53,6 +53,15 @@ title: Changelog
 - update container image mariadb to v13.5.4[@f572f3a](https://github.com/f572f3a) by renovate ([#19318](https://github.com/truecharts/charts/issues/19318))
 
 
+## [observium-7.2.1](https://github.com/truecharts/charts/compare/observium-7.2.0...observium-7.2.1) (2024-03-16)
+
+### Chore
+
+
+
+- update container image mariadb to v13.5.4[@f572f3a](https://github.com/f572f3a) by renovate ([#19318](https://github.com/truecharts/charts/issues/19318))
+
+
 ## [observium-7.2.0](https://github.com/truecharts/charts/compare/observium-7.1.4...observium-7.2.0) (2024-03-16)
 
 ### Chore
@@ -87,13 +96,4 @@ title: Changelog
 
 
 - update container image common to v20.0.9[@caa8bac](https://github.com/caa8bac) by renovate ([#19179](https://github.com/truecharts/charts/issues/19179))
-
-
-## [observium-7.1.1](https://github.com/truecharts/charts/compare/observium-7.1.0...observium-7.1.1) (2024-03-12)
-
-### Chore
-
-
-
-- update container image common to v20.0.8[@021a874](https://github.com/021a874) by renovate ([#19175](https://github.com/truecharts/charts/issues/19175))
 

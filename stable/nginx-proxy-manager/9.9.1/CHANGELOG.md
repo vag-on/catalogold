@@ -53,6 +53,15 @@ title: Changelog
 - update container image mariadb to v13.5.4[@f572f3a](https://github.com/f572f3a) by renovate ([#19318](https://github.com/truecharts/charts/issues/19318))
 
 
+## [nginx-proxy-manager-9.9.1](https://github.com/truecharts/charts/compare/nginx-proxy-manager-9.9.0...nginx-proxy-manager-9.9.1) (2024-03-16)
+
+### Chore
+
+
+
+- update container image mariadb to v13.5.4[@f572f3a](https://github.com/f572f3a) by renovate ([#19318](https://github.com/truecharts/charts/issues/19318))
+
+
 ## [nginx-proxy-manager-9.9.0](https://github.com/truecharts/charts/compare/nginx-proxy-manager-9.8.3...nginx-proxy-manager-9.9.0) (2024-03-16)
 
 ### Chore
@@ -88,13 +97,3 @@ title: Changelog
 
 - update container image common to v20.0.8[@021a874](https://github.com/021a874) by renovate ([#19175](https://github.com/truecharts/charts/issues/19175))
 
-
-## [nginx-proxy-manager-9.8.0](https://github.com/truecharts/charts/compare/nginx-proxy-manager-9.7.0...nginx-proxy-manager-9.8.0) (2024-03-12)
-
-### Chore
-
-
-
-- update container image mariadb to v13.5.0[@078f45a](https://github.com/078f45a) by renovate ([#19172](https://github.com/truecharts/charts/issues/19172))
-
-- update container image mariadb to v13.4.1[@e28d6d5](https://github.com/e28d6d5) by renovate ([#19135](https://github.com/truecharts/charts/issues/19135))
