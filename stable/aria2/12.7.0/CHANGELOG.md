@@ -26,6 +26,15 @@ title: Changelog
 - update container image common to v20.2.0[@91ade87](https://github.com/91ade87) by renovate ([#19361](https://github.com/truecharts/charts/issues/19361))
 
 
+## [aria2-12.7.0](https://github.com/truecharts/charts/compare/aria2-12.6.0...aria2-12.7.0) (2024-03-16)
+
+### Chore
+
+
+
+- update container image common to v20.2.0[@91ade87](https://github.com/91ade87) by renovate ([#19361](https://github.com/truecharts/charts/issues/19361))
+
+
 ## [aria2-12.6.0](https://github.com/truecharts/charts/compare/aria2-12.5.2...aria2-12.6.0) (2024-03-16)
 
 ### Chore
@@ -87,13 +96,4 @@ title: Changelog
 
 
 - update container image common to v18.2.0[@9e8b7d4](https://github.com/9e8b7d4) by renovate ([#18943](https://github.com/truecharts/charts/issues/18943))
-
-
-## [aria2-12.2.3](https://github.com/truecharts/charts/compare/aria2-12.2.2...aria2-12.2.3) (2024-03-05)
-
-### Chore
-
-
-
-- bump everything to force helm release again
 
