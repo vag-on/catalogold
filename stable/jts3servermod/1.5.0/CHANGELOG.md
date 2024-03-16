@@ -17,6 +17,15 @@ title: Changelog
 - update container image common to v20.2.0[@91ade87](https://github.com/91ade87) by renovate ([#19361](https://github.com/truecharts/charts/issues/19361))
 
 
+## [jts3servermod-1.5.0](https://github.com/truecharts/charts/compare/jts3servermod-1.4.0...jts3servermod-1.5.0) (2024-03-16)
+
+### Chore
+
+
+
+- update container image common to v20.2.0[@91ade87](https://github.com/91ade87) by renovate ([#19361](https://github.com/truecharts/charts/issues/19361))
+
+
 ## [jts3servermod-1.4.0](https://github.com/truecharts/charts/compare/jts3servermod-1.3.2...jts3servermod-1.4.0) (2024-03-16)
 
 ### Chore
@@ -88,13 +97,3 @@ title: Changelog
 
 - bump everything to force helm release again
 
-
-## [jts3servermod-1.0.1](https://github.com/truecharts/charts/compare/jts3servermod-0.0.3...jts3servermod-1.0.1) (2024-03-05)
-
-### Chore
-
-
-
-- force rereleases
-
-### Feat

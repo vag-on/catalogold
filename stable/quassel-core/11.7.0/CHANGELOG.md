@@ -17,6 +17,15 @@ title: Changelog
 - update container image common to v20.2.0[@91ade87](https://github.com/91ade87) by renovate ([#19361](https://github.com/truecharts/charts/issues/19361))
 
 
+## [quassel-core-11.7.0](https://github.com/truecharts/charts/compare/quassel-core-11.6.0...quassel-core-11.7.0) (2024-03-16)
+
+### Chore
+
+
+
+- update container image common to v20.2.0[@91ade87](https://github.com/91ade87) by renovate ([#19361](https://github.com/truecharts/charts/issues/19361))
+
+
 ## [quassel-core-11.6.0](https://github.com/truecharts/charts/compare/quassel-core-11.5.2...quassel-core-11.6.0) (2024-03-16)
 
 ### Chore
@@ -88,13 +97,3 @@ title: Changelog
 
 - bump everything to force helm release again
 
-
-## [quassel-core-11.2.3](https://github.com/truecharts/charts/compare/quassel-core-11.2.1...quassel-core-11.2.3) (2024-03-05)
-
-### Chore
-
-
-
-- force rereleases
-
-- update container image common to v18.1.6[@904d84b](https://github.com/904d84b) by renovate ([#18835](https://github.com/truecharts/charts/issues/18835))
