@@ -17,6 +17,15 @@ title: Changelog
 - update container image accetto/ubuntu-vnc-xfce-opengl-g3 to latest[@d00b5ab](https://github.com/d00b5ab) by renovate ([#19215](https://github.com/truecharts/charts/issues/19215))
 
 
+## [opengl-desktop-g3-5.6.1](https://github.com/truecharts/charts/compare/opengl-desktop-g3-5.6.0...opengl-desktop-g3-5.6.1) (2024-03-16)
+
+### Chore
+
+
+
+- update container image accetto/ubuntu-vnc-xfce-opengl-g3 to latest[@d00b5ab](https://github.com/d00b5ab) by renovate ([#19215](https://github.com/truecharts/charts/issues/19215))
+
+
 ## [opengl-desktop-g3-5.6.0](https://github.com/truecharts/charts/compare/opengl-desktop-g3-5.5.2...opengl-desktop-g3-5.6.0) (2024-03-16)
 
 ### Chore
@@ -87,13 +96,4 @@ title: Changelog
 
 
 - bump everything to force helm release again
-
-
-## [opengl-desktop-g3-5.2.3](https://github.com/truecharts/charts/compare/opengl-desktop-g3-5.2.2...opengl-desktop-g3-5.2.3) (2024-03-05)
-
-### Chore
-
-
-
-- update container image accetto/ubuntu-vnc-xfce-opengl-g3 to latest[@228b67b](https://github.com/228b67b) by renovate ([#18753](https://github.com/truecharts/charts/issues/18753))
 

@@ -17,6 +17,15 @@ title: Changelog
 - update container image docker to 25.0.4-dind[@93529df](https://github.com/93529df) by renovate ([#19221](https://github.com/truecharts/charts/issues/19221))
 
 
+## [docker-5.6.1](https://github.com/truecharts/charts/compare/docker-5.6.0...docker-5.6.1) (2024-03-16)
+
+### Chore
+
+
+
+- update container image docker to 25.0.4-dind[@93529df](https://github.com/93529df) by renovate ([#19221](https://github.com/truecharts/charts/issues/19221))
+
+
 ## [docker-5.6.0](https://github.com/truecharts/charts/compare/docker-5.5.2...docker-5.6.0) (2024-03-16)
 
 ### Chore
@@ -87,13 +96,4 @@ title: Changelog
 
 
 - update container image common to v18.2.0[@9e8b7d4](https://github.com/9e8b7d4) by renovate ([#18943](https://github.com/truecharts/charts/issues/18943))
-
-
-## [docker-5.2.4](https://github.com/truecharts/charts/compare/docker-5.2.3...docker-5.2.4) (2024-03-05)
-
-### Chore
-
-
-
-- bump everything to force helm release again
 

@@ -26,6 +26,15 @@ title: Changelog
 - update container image accetto/ubuntu-vnc-xfce-blender-g3 to latest[@7125ef7](https://github.com/7125ef7) by renovate ([#19212](https://github.com/truecharts/charts/issues/19212))
 
 
+## [blender-desktop-g3-5.6.1](https://github.com/truecharts/charts/compare/blender-desktop-g3-5.6.0...blender-desktop-g3-5.6.1) (2024-03-16)
+
+### Chore
+
+
+
+- update container image accetto/ubuntu-vnc-xfce-blender-g3 to latest[@7125ef7](https://github.com/7125ef7) by renovate ([#19212](https://github.com/truecharts/charts/issues/19212))
+
+
 ## [blender-desktop-g3-5.6.0](https://github.com/truecharts/charts/compare/blender-desktop-g3-5.5.2...blender-desktop-g3-5.6.0) (2024-03-16)
 
 ### Chore
@@ -87,13 +96,4 @@ title: Changelog
 
 
 - update container image common to v18.2.0[@9e8b7d4](https://github.com/9e8b7d4) by renovate ([#18943](https://github.com/truecharts/charts/issues/18943))
-
-
-## [blender-desktop-g3-5.2.4](https://github.com/truecharts/charts/compare/blender-desktop-g3-5.2.3...blender-desktop-g3-5.2.4) (2024-03-05)
-
-### Chore
-
-
-
-- bump everything to force helm release again
 
