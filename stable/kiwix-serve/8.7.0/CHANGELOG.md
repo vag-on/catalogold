@@ -26,6 +26,15 @@ title: Changelog
 - update container image ghcr.io/kiwix/kiwix-serve to v3.7.0[@9b92d0a](https://github.com/9b92d0a) by renovate ([#19339](https://github.com/truecharts/charts/issues/19339))
 
 
+## [kiwix-serve-8.7.0](https://github.com/truecharts/charts/compare/kiwix-serve-8.6.0...kiwix-serve-8.7.0) (2024-03-16)
+
+### Chore
+
+
+
+- update container image ghcr.io/kiwix/kiwix-serve to v3.7.0[@9b92d0a](https://github.com/9b92d0a) by renovate ([#19339](https://github.com/truecharts/charts/issues/19339))
+
+
 ## [kiwix-serve-8.6.0](https://github.com/truecharts/charts/compare/kiwix-serve-8.5.2...kiwix-serve-8.6.0) (2024-03-16)
 
 ### Chore
@@ -87,13 +96,4 @@ title: Changelog
 
 
 - update container image common to v18.2.0[@9e8b7d4](https://github.com/9e8b7d4) by renovate ([#18943](https://github.com/truecharts/charts/issues/18943))
-
-
-## [kiwix-serve-8.2.3](https://github.com/truecharts/charts/compare/kiwix-serve-8.2.2...kiwix-serve-8.2.3) (2024-03-05)
-
-### Chore
-
-
-
-- bump everything to force helm release again
 

@@ -44,6 +44,15 @@ title: Changelog
 - update container image ghcr.io/sethforprivacy/simple-monerod to v0.18.3.3[@1d6fa54](https://github.com/1d6fa54) by renovate ([#19309](https://github.com/truecharts/charts/issues/19309))
 
 
+## [monero-node-6.5.1](https://github.com/truecharts/charts/compare/monero-node-6.5.0...monero-node-6.5.1) (2024-03-16)
+
+### Chore
+
+
+
+- update container image ghcr.io/sethforprivacy/simple-monerod to v0.18.3.3[@1d6fa54](https://github.com/1d6fa54) by renovate ([#19309](https://github.com/truecharts/charts/issues/19309))
+
+
 ## [monero-node-6.5.0](https://github.com/truecharts/charts/compare/monero-node-6.4.2...monero-node-6.5.0) (2024-03-16)
 
 ### Chore
@@ -89,12 +98,3 @@ title: Changelog
 
 
 - update container image ghcr.io/sethforprivacy/simple-monerod to v0.18.3.2[@f674823](https://github.com/f674823) by renovate ([#19154](https://github.com/truecharts/charts/issues/19154))
-
-
-## [monero-node-6.3.2](https://github.com/truecharts/charts/compare/monero-node-6.3.1...monero-node-6.3.2) (2024-03-11)
-
-### Chore
-
-
-
-- update container image ghcr.io/sethforprivacy/simple-monerod to v0.18.3.2[@57ea2ee](https://github.com/57ea2ee) by renovate ([#19071](https://github.com/truecharts/charts/issues/19071))

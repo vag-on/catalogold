@@ -44,6 +44,15 @@ title: Changelog
 - update container image thomst08/requestrr to v2.1.6[@6cdeb52](https://github.com/6cdeb52) by renovate ([#19329](https://github.com/truecharts/charts/issues/19329))
 
 
+## [requestrr-10.6.1](https://github.com/truecharts/charts/compare/requestrr-10.6.0...requestrr-10.6.1) (2024-03-16)
+
+### Chore
+
+
+
+- update container image thomst08/requestrr to v2.1.6[@6cdeb52](https://github.com/6cdeb52) by renovate ([#19329](https://github.com/truecharts/charts/issues/19329))
+
+
 ## [requestrr-10.6.0](https://github.com/truecharts/charts/compare/requestrr-10.5.2...requestrr-10.6.0) (2024-03-16)
 
 ### Chore
@@ -87,13 +96,4 @@ title: Changelog
 
 
 - bump everything to trigger re-release
-
-
-## [requestrr-10.4.0](https://github.com/truecharts/charts/compare/requestrr-10.3.0...requestrr-10.4.0) (2024-03-07)
-
-### Chore
-
-
-
-- update container image common to v19.0.0[@eef2062](https://github.com/eef2062) by renovate ([#18956](https://github.com/truecharts/charts/issues/18956))
 

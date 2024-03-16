@@ -71,6 +71,15 @@ title: Changelog
 - update container image ghcr.io/onedr0p/bazarr to 1.4.2[@07af48c](https://github.com/07af48c) by renovate ([#19253](https://github.com/truecharts/charts/issues/19253))
 
 
+## [bazarr-19.4.1](https://github.com/truecharts/charts/compare/bazarr-19.4.0...bazarr-19.4.1) (2024-03-16)
+
+### Chore
+
+
+
+- update container image ghcr.io/onedr0p/bazarr to 1.4.2[@07af48c](https://github.com/07af48c) by renovate ([#19253](https://github.com/truecharts/charts/issues/19253))
+
+
 ## [bazarr-19.4.0](https://github.com/truecharts/charts/compare/bazarr-19.3.2...bazarr-19.4.0) (2024-03-16)
 
 ### Chore
@@ -87,13 +96,4 @@ title: Changelog
 
 
 - update container image common to v20.0.9[@caa8bac](https://github.com/caa8bac) by renovate ([#19179](https://github.com/truecharts/charts/issues/19179))
-
-
-## [bazarr-19.3.1](https://github.com/truecharts/charts/compare/bazarr-19.3.0...bazarr-19.3.1) (2024-03-12)
-
-### Chore
-
-
-
-- update container image common to v20.0.8[@021a874](https://github.com/021a874) by renovate ([#19175](https://github.com/truecharts/charts/issues/19175))
 
