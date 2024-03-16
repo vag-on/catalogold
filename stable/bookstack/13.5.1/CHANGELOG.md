@@ -17,6 +17,15 @@ title: Changelog
 - update container image mariadb to v13.5.4[@f572f3a](https://github.com/f572f3a) by renovate ([#19318](https://github.com/truecharts/charts/issues/19318))
 
 
+## [bookstack-13.5.1](https://github.com/truecharts/charts/compare/bookstack-13.5.0...bookstack-13.5.1) (2024-03-16)
+
+### Chore
+
+
+
+- update container image mariadb to v13.5.4[@f572f3a](https://github.com/f572f3a) by renovate ([#19318](https://github.com/truecharts/charts/issues/19318))
+
+
 ## [bookstack-13.5.0](https://github.com/truecharts/charts/compare/bookstack-13.4.3...bookstack-13.5.0) (2024-03-16)
 
 ### Chore
@@ -89,12 +98,3 @@ title: Changelog
 
 
 - update container image ghcr.io/linuxserver/bookstack to v24.02.20240304[@439feef](https://github.com/439feef) by renovate ([#19066](https://github.com/truecharts/charts/issues/19066))
-
-
-## [bookstack-13.2.1](https://github.com/truecharts/charts/compare/bookstack-13.2.0...bookstack-13.2.1) (2024-03-07)
-
-### Chore
-
-
-
-- bump everything to trigger re-release

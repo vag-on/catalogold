@@ -26,6 +26,15 @@ title: Changelog
 - update container image redis to v13.0.5[@01c1933](https://github.com/01c1933) by renovate ([#19324](https://github.com/truecharts/charts/issues/19324))
 
 
+## [papermerge-12.6.1](https://github.com/truecharts/charts/compare/papermerge-12.6.0...papermerge-12.6.1) (2024-03-16)
+
+### Chore
+
+
+
+- update container image redis to v13.0.5[@01c1933](https://github.com/01c1933) by renovate ([#19324](https://github.com/truecharts/charts/issues/19324))
+
+
 ## [papermerge-12.6.0](https://github.com/truecharts/charts/compare/papermerge-12.5.4...papermerge-12.6.0) (2024-03-16)
 
 ### Chore
@@ -89,12 +98,3 @@ title: Changelog
 
 
 - bump everything to trigger re-release
-
-
-## [papermerge-12.4.0](https://github.com/truecharts/charts/compare/papermerge-12.3.0...papermerge-12.4.0) (2024-03-07)
-
-### Chore
-
-
-
-- update container image common to v19.0.0[@eef2062](https://github.com/eef2062) by renovate ([#18956](https://github.com/truecharts/charts/issues/18956))

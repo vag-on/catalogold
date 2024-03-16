@@ -26,6 +26,15 @@ title: Changelog
 - update container image ghcr.io/analogj/scrutiny to v0.8.0-omnibus[@426c4a3](https://github.com/426c4a3) by renovate ([#19337](https://github.com/truecharts/charts/issues/19337))
 
 
+## [scrutiny-10.7.0](https://github.com/truecharts/charts/compare/scrutiny-10.6.0...scrutiny-10.7.0) (2024-03-16)
+
+### Chore
+
+
+
+- update container image ghcr.io/analogj/scrutiny to v0.8.0-omnibus[@426c4a3](https://github.com/426c4a3) by renovate ([#19337](https://github.com/truecharts/charts/issues/19337))
+
+
 ## [scrutiny-10.6.0](https://github.com/truecharts/charts/compare/scrutiny-10.5.2...scrutiny-10.6.0) (2024-03-16)
 
 ### Chore
@@ -87,13 +96,4 @@ title: Changelog
 
 
 - update container image common to v18.2.0[@9e8b7d4](https://github.com/9e8b7d4) by renovate ([#18943](https://github.com/truecharts/charts/issues/18943))
-
-
-## [scrutiny-10.2.3](https://github.com/truecharts/charts/compare/scrutiny-10.2.2...scrutiny-10.2.3) (2024-03-05)
-
-### Chore
-
-
-
-- bump everything to force helm release again
 

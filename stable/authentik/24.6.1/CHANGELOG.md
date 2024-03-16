@@ -26,6 +26,15 @@ title: Changelog
 - update container image redis to v13.0.5[@01c1933](https://github.com/01c1933) by renovate ([#19324](https://github.com/truecharts/charts/issues/19324))
 
 
+## [authentik-24.6.1](https://github.com/truecharts/charts/compare/authentik-24.6.0...authentik-24.6.1) (2024-03-16)
+
+### Chore
+
+
+
+- update container image redis to v13.0.5[@01c1933](https://github.com/01c1933) by renovate ([#19324](https://github.com/truecharts/charts/issues/19324))
+
+
 ## [authentik-24.6.0](https://github.com/truecharts/charts/compare/authentik-24.5.4...authentik-24.6.0) (2024-03-16)
 
 ### Chore
@@ -89,12 +98,3 @@ title: Changelog
 
 
 - update authentik to v2024.2.2[@d7ede5c](https://github.com/d7ede5c) by renovate (patch) ([#19052](https://github.com/truecharts/charts/issues/19052))
-
-
-## [authentik-24.4.1](https://github.com/truecharts/charts/compare/authentik-24.4.0...authentik-24.4.1) (2024-03-07)
-
-### Chore
-
-
-
-- bump everything to trigger re-release

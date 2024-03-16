@@ -26,6 +26,15 @@ title: Changelog
 - update container image ghcr.io/linuxserver/znc to 1.9.0[@bdd8345](https://github.com/bdd8345) by renovate ([#19250](https://github.com/truecharts/charts/issues/19250))
 
 
+## [znc-9.7.1](https://github.com/truecharts/charts/compare/znc-9.7.0...znc-9.7.1) (2024-03-16)
+
+### Chore
+
+
+
+- update container image ghcr.io/linuxserver/znc to 1.9.0[@bdd8345](https://github.com/bdd8345) by renovate ([#19250](https://github.com/truecharts/charts/issues/19250))
+
+
 ## [znc-9.7.0](https://github.com/truecharts/charts/compare/znc-9.6.2...znc-9.7.0) (2024-03-16)
 
 ### Chore
@@ -87,13 +96,4 @@ title: Changelog
 
 
 - update container image common to v18.2.0[@9e8b7d4](https://github.com/9e8b7d4) by renovate ([#18943](https://github.com/truecharts/charts/issues/18943))
-
-
-## [znc-9.3.4](https://github.com/truecharts/charts/compare/znc-9.3.3...znc-9.3.4) (2024-03-05)
-
-### Chore
-
-
-
-- bump everything to force helm release again
 

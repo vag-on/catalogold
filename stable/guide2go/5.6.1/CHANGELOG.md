@@ -44,6 +44,15 @@ title: Changelog
 - update container image alturismo/guide2go to latest[@e67eb26](https://github.com/e67eb26) by renovate ([#19217](https://github.com/truecharts/charts/issues/19217))
 
 
+## [guide2go-5.6.1](https://github.com/truecharts/charts/compare/guide2go-5.6.0...guide2go-5.6.1) (2024-03-16)
+
+### Chore
+
+
+
+- update container image alturismo/guide2go to latest[@e67eb26](https://github.com/e67eb26) by renovate ([#19217](https://github.com/truecharts/charts/issues/19217))
+
+
 ## [guide2go-5.6.0](https://github.com/truecharts/charts/compare/guide2go-5.5.2...guide2go-5.6.0) (2024-03-16)
 
 ### Chore
@@ -87,13 +96,4 @@ title: Changelog
 
 
 - bump everything to trigger re-release
-
-
-## [guide2go-5.4.0](https://github.com/truecharts/charts/compare/guide2go-5.3.0...guide2go-5.4.0) (2024-03-07)
-
-### Chore
-
-
-
-- update container image common to v19.0.0[@eef2062](https://github.com/eef2062) by renovate ([#18956](https://github.com/truecharts/charts/issues/18956))
 

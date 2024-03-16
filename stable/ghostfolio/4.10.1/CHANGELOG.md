@@ -30,6 +30,17 @@ title: Changelog
 - update container image ghostfolio/ghostfolio to v2.63.2[@399532b](https://github.com/399532b) by renovate ([#19343](https://github.com/truecharts/charts/issues/19343))
 
 
+## [ghostfolio-4.10.1](https://github.com/truecharts/charts/compare/ghostfolio-4.9.0...ghostfolio-4.10.1) (2024-03-16)
+
+### Chore
+
+
+
+- update container image redis to v13.0.5[@01c1933](https://github.com/01c1933) by renovate ([#19324](https://github.com/truecharts/charts/issues/19324))
+
+- update container image ghostfolio/ghostfolio to v2.63.2[@399532b](https://github.com/399532b) by renovate ([#19343](https://github.com/truecharts/charts/issues/19343))
+
+
 ## [ghostfolio-4.9.0](https://github.com/truecharts/charts/compare/ghostfolio-4.8.4...ghostfolio-4.9.0) (2024-03-16)
 
 ### Chore
@@ -87,14 +98,3 @@ title: Changelog
 
 
 ## [ghostfolio-4.7.0](https://github.com/truecharts/charts/compare/ghostfolio-4.6.1...ghostfolio-4.7.0) (2024-03-11)
-
-### Chore
-
-
-
-- update container image ghostfolio/ghostfolio to v2.62.0[@4062970](https://github.com/4062970) by renovate ([#19107](https://github.com/truecharts/charts/issues/19107))
-
-
-## [ghostfolio-4.6.1](https://github.com/truecharts/charts/compare/ghostfolio-4.6.0...ghostfolio-4.6.1) (2024-03-07)
-
-### Chore

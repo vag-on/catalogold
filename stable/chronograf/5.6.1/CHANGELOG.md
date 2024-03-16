@@ -44,6 +44,15 @@ title: Changelog
 - update container image chronograf to latest[@ac8f8cc](https://github.com/ac8f8cc) by renovate ([#19218](https://github.com/truecharts/charts/issues/19218))
 
 
+## [chronograf-5.6.1](https://github.com/truecharts/charts/compare/chronograf-5.6.0...chronograf-5.6.1) (2024-03-16)
+
+### Chore
+
+
+
+- update container image chronograf to latest[@ac8f8cc](https://github.com/ac8f8cc) by renovate ([#19218](https://github.com/truecharts/charts/issues/19218))
+
+
 ## [chronograf-5.6.0](https://github.com/truecharts/charts/compare/chronograf-5.5.2...chronograf-5.6.0) (2024-03-16)
 
 ### Chore
@@ -87,13 +96,4 @@ title: Changelog
 
 
 - bump everything to trigger re-release
-
-
-## [chronograf-5.4.0](https://github.com/truecharts/charts/compare/chronograf-5.3.0...chronograf-5.4.0) (2024-03-07)
-
-### Chore
-
-
-
-- update container image common to v19.0.0[@eef2062](https://github.com/eef2062) by renovate ([#18956](https://github.com/truecharts/charts/issues/18956))
 
