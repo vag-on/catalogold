@@ -6,6 +6,8 @@
 
 
 
+- update container image common to v20.2.2[@f7d0b92](https://github.com/f7d0b92) by renovate ([#19432](https://github.com/truecharts/charts/issues/19432))
+
 - update container image diygod/rsshub to latest[@59dcb9e](https://github.com/59dcb9e) by renovate ([#19430](https://github.com/truecharts/charts/issues/19430))
 
 - update container image diygod/rsshub to latest[@4040524](https://github.com/4040524) by renovate ([#19419](https://github.com/truecharts/charts/issues/19419))

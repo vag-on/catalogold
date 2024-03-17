@@ -6,6 +6,8 @@
 
 
 
+- update container image common to v20.2.2[@f7d0b92](https://github.com/f7d0b92) by renovate ([#19432](https://github.com/truecharts/charts/issues/19432))
+
 - update container image quay.io/pussthecatorg/rimgo to latest[@fa3f857](https://github.com/fa3f857) by renovate ([#19401](https://github.com/truecharts/charts/issues/19401))
 
 - update container image quay.io/pussthecatorg/rimgo to latest[@a9d1ed6](https://github.com/a9d1ed6) by renovate ([#19386](https://github.com/truecharts/charts/issues/19386))
