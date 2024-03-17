@@ -71,6 +71,15 @@ title: Changelog
 - update container image common to v20.2.0[@91ade87](https://github.com/91ade87) by renovate ([#19361](https://github.com/truecharts/charts/issues/19361))
 
 
+## [frigate-14.3.0](https://github.com/truecharts/charts/compare/frigate-14.2.0...frigate-14.3.0) (2024-03-16)
+
+### Chore
+
+
+
+- update container image common to v20.2.0[@91ade87](https://github.com/91ade87) by renovate ([#19361](https://github.com/truecharts/charts/issues/19361))
+
+
 ## [frigate-14.2.0](https://github.com/truecharts/charts/compare/frigate-14.1.2...frigate-14.2.0) (2024-03-16)
 
 ### Chore
@@ -87,13 +96,4 @@ title: Changelog
 
 
 - update container image common to v20.0.9[@caa8bac](https://github.com/caa8bac) by renovate ([#19179](https://github.com/truecharts/charts/issues/19179))
-
-
-## [frigate-14.1.1](https://github.com/truecharts/charts/compare/frigate-14.1.0...frigate-14.1.1) (2024-03-12)
-
-### Chore
-
-
-
-- update container image common to v20.0.8[@021a874](https://github.com/021a874) by renovate ([#19175](https://github.com/truecharts/charts/issues/19175))
 

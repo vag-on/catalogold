@@ -71,6 +71,15 @@ title: Changelog
 - update container image common to v20.2.0[@91ade87](https://github.com/91ade87) by renovate ([#19361](https://github.com/truecharts/charts/issues/19361))
 
 
+## [traefik-forward-auth-3.7.0](https://github.com/truecharts/charts/compare/traefik-forward-auth-3.6.0...traefik-forward-auth-3.7.0) (2024-03-16)
+
+### Chore
+
+
+
+- update container image common to v20.2.0[@91ade87](https://github.com/91ade87) by renovate ([#19361](https://github.com/truecharts/charts/issues/19361))
+
+
 ## [traefik-forward-auth-3.6.0](https://github.com/truecharts/charts/compare/traefik-forward-auth-3.5.3...traefik-forward-auth-3.6.0) (2024-03-16)
 
 ### Chore
@@ -87,13 +96,4 @@ title: Changelog
 
 
 - Remove persistence questions from SCALE ([#19200](https://github.com/truecharts/charts/issues/19200))
-
-
-## [traefik-forward-auth-3.5.2](https://github.com/truecharts/charts/compare/traefik-forward-auth-3.5.1...traefik-forward-auth-3.5.2) (2024-03-12)
-
-### Chore
-
-
-
-- update container image common to v20.0.9[@caa8bac](https://github.com/caa8bac) by renovate ([#19179](https://github.com/truecharts/charts/issues/19179))
 
