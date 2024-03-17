@@ -27,11 +27,13 @@ title: Changelog
 - update container image mongodb to v12.5.4[@82d3dea](https://github.com/82d3dea) by renovate ([#19321](https://github.com/truecharts/charts/issues/19321))
 
 
-## [wekan-14.14.0](https://github.com/truecharts/charts/compare/wekan-14.10.0...wekan-14.14.0) (2024-03-17)
+## [wekan-14.14.1](https://github.com/truecharts/charts/compare/wekan-14.10.0...wekan-14.14.1) (2024-03-17)
 
 ### Chore
 
 
+
+- update container image common to v20.2.2[@f7d0b92](https://github.com/f7d0b92) by renovate ([#19432](https://github.com/truecharts/charts/issues/19432))
 
 - update container image mongodb to v12.7.0[@a2a5c75](https://github.com/a2a5c75) by renovate ([#19364](https://github.com/truecharts/charts/issues/19364))
 
@@ -96,5 +98,3 @@ title: Changelog
 
 
 ## [wekan-14.14.0](https://github.com/truecharts/charts/compare/wekan-14.10.0...wekan-14.14.0) (2024-03-17)
-
-### Chore
