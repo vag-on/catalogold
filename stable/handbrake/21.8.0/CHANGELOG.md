@@ -53,6 +53,15 @@ title: Changelog
 - update container image common to v20.2.0[@91ade87](https://github.com/91ade87) by renovate ([#19361](https://github.com/truecharts/charts/issues/19361))
 
 
+## [handbrake-21.8.0](https://github.com/truecharts/charts/compare/handbrake-21.7.0...handbrake-21.8.0) (2024-03-16)
+
+### Chore
+
+
+
+- update container image common to v20.2.0[@91ade87](https://github.com/91ade87) by renovate ([#19361](https://github.com/truecharts/charts/issues/19361))
+
+
 ## [handbrake-21.7.0](https://github.com/truecharts/charts/compare/handbrake-21.6.2...handbrake-21.7.0) (2024-03-16)
 
 ### Chore
@@ -87,13 +96,4 @@ title: Changelog
 
 
 - update container image common to v20.0.6[@5f6c753](https://github.com/5f6c753) by renovate ([#19131](https://github.com/truecharts/charts/issues/19131))
-
-
-## [handbrake-21.5.0](https://github.com/truecharts/charts/compare/handbrake-21.4.1...handbrake-21.5.0) (2024-03-11)
-
-### Chore
-
-
-
-- update container image jlesage/handbrake to v24.03.1[@2a5a125](https://github.com/2a5a125) by renovate ([#19119](https://github.com/truecharts/charts/issues/19119))
 

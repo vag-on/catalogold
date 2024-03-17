@@ -1,6 +1,6 @@
 
 
-## [medusa-10.7.0](https://github.com/truecharts/charts/compare/medusa-10.6.0...medusa-10.7.0) (2024-03-16)
+## [medusa-10.7.0](https://github.com/truecharts/charts/compare/medusa-10.6.0...medusa-10.7.0) (2024-03-17)
 
 ### Chore
 

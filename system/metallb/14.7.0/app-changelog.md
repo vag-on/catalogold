@@ -1,6 +1,6 @@
 
 
-## [metallb-14.7.0](https://github.com/truecharts/charts/compare/metallb-14.6.0...metallb-14.7.0) (2024-03-16)
+## [metallb-14.7.0](https://github.com/truecharts/charts/compare/metallb-14.6.0...metallb-14.7.0) (2024-03-17)
 
 ### Chore
 

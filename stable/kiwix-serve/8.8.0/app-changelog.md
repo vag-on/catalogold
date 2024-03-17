@@ -1,6 +1,6 @@
 
 
-## [kiwix-serve-8.8.0](https://github.com/truecharts/charts/compare/kiwix-serve-8.6.0...kiwix-serve-8.8.0) (2024-03-16)
+## [kiwix-serve-8.8.0](https://github.com/truecharts/charts/compare/kiwix-serve-8.6.0...kiwix-serve-8.8.0) (2024-03-17)
 
 ### Chore
 

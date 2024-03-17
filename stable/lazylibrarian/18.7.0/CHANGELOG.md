@@ -53,6 +53,15 @@ title: Changelog
 - update container image common to v20.2.0[@91ade87](https://github.com/91ade87) by renovate ([#19361](https://github.com/truecharts/charts/issues/19361))
 
 
+## [lazylibrarian-18.7.0](https://github.com/truecharts/charts/compare/lazylibrarian-18.6.0...lazylibrarian-18.7.0) (2024-03-16)
+
+### Chore
+
+
+
+- update container image common to v20.2.0[@91ade87](https://github.com/91ade87) by renovate ([#19361](https://github.com/truecharts/charts/issues/19361))
+
+
 ## [lazylibrarian-18.6.0](https://github.com/truecharts/charts/compare/lazylibrarian-18.5.2...lazylibrarian-18.6.0) (2024-03-16)
 
 ### Chore
@@ -87,13 +96,4 @@ title: Changelog
 
 
 - update container image common to v20.0.6[@5f6c753](https://github.com/5f6c753) by renovate ([#19131](https://github.com/truecharts/charts/issues/19131))
-
-
-## [lazylibrarian-18.4.2](https://github.com/truecharts/charts/compare/lazylibrarian-18.4.1...lazylibrarian-18.4.2) (2024-03-11)
-
-### Chore
-
-
-
-- update container image ghcr.io/linuxserver/lazylibrarian to latest[@1e4dd75](https://github.com/1e4dd75) by renovate ([#19003](https://github.com/truecharts/charts/issues/19003))
 

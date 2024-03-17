@@ -1,6 +1,6 @@
 
 
-## [steam-headless-3.7.0](https://github.com/truecharts/charts/compare/steam-headless-3.6.0...steam-headless-3.7.0) (2024-03-16)
+## [steam-headless-3.7.0](https://github.com/truecharts/charts/compare/steam-headless-3.6.0...steam-headless-3.7.0) (2024-03-17)
 
 ### Chore
 

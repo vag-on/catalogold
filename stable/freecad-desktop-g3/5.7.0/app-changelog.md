@@ -1,6 +1,6 @@
 
 
-## [freecad-desktop-g3-5.7.0](https://github.com/truecharts/charts/compare/freecad-desktop-g3-5.6.0...freecad-desktop-g3-5.7.0) (2024-03-16)
+## [freecad-desktop-g3-5.7.0](https://github.com/truecharts/charts/compare/freecad-desktop-g3-5.6.0...freecad-desktop-g3-5.7.0) (2024-03-17)
 
 ### Chore
 

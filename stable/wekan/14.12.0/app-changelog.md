@@ -1,6 +1,6 @@
 
 
-## [wekan-14.12.0](https://github.com/truecharts/charts/compare/wekan-14.10.0...wekan-14.12.0) (2024-03-16)
+## [wekan-14.12.0](https://github.com/truecharts/charts/compare/wekan-14.10.0...wekan-14.12.0) (2024-03-17)
 
 ### Chore
 

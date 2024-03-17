@@ -53,6 +53,15 @@ title: Changelog
 - update container image common to v20.2.0[@91ade87](https://github.com/91ade87) by renovate ([#19361](https://github.com/truecharts/charts/issues/19361))
 
 
+## [changedetection-io-2.7.0](https://github.com/truecharts/charts/compare/changedetection-io-2.6.0...changedetection-io-2.7.0) (2024-03-16)
+
+### Chore
+
+
+
+- update container image common to v20.2.0[@91ade87](https://github.com/91ade87) by renovate ([#19361](https://github.com/truecharts/charts/issues/19361))
+
+
 ## [changedetection-io-2.6.0](https://github.com/truecharts/charts/compare/changedetection-io-2.5.2...changedetection-io-2.6.0) (2024-03-16)
 
 ### Chore
@@ -87,13 +96,4 @@ title: Changelog
 
 
 - update container image common to v20.0.6[@5f6c753](https://github.com/5f6c753) by renovate ([#19131](https://github.com/truecharts/charts/issues/19131))
-
-
-## [changedetection-io-2.4.2](https://github.com/truecharts/charts/compare/changedetection-io-2.4.1...changedetection-io-2.4.2) (2024-03-11)
-
-### Chore
-
-
-
-- update container image ghcr.io/dgtlmoon/changedetection.io to v0.45.16[@247558e](https://github.com/247558e) by renovate ([#19064](https://github.com/truecharts/charts/issues/19064))
 

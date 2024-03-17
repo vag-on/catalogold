@@ -53,6 +53,15 @@ title: Changelog
 - update container image common to v20.2.0[@91ade87](https://github.com/91ade87) by renovate ([#19361](https://github.com/truecharts/charts/issues/19361))
 
 
+## [nexus-oss-5.8.0](https://github.com/truecharts/charts/compare/nexus-oss-5.7.0...nexus-oss-5.8.0) (2024-03-16)
+
+### Chore
+
+
+
+- update container image common to v20.2.0[@91ade87](https://github.com/91ade87) by renovate ([#19361](https://github.com/truecharts/charts/issues/19361))
+
+
 ## [nexus-oss-5.7.0](https://github.com/truecharts/charts/compare/nexus-oss-5.6.2...nexus-oss-5.7.0) (2024-03-16)
 
 ### Chore
@@ -87,13 +96,4 @@ title: Changelog
 
 
 - update container image common to v20.0.6[@5f6c753](https://github.com/5f6c753) by renovate ([#19131](https://github.com/truecharts/charts/issues/19131))
-
-
-## [nexus-oss-5.5.0](https://github.com/truecharts/charts/compare/nexus-oss-5.4.1...nexus-oss-5.5.0) (2024-03-11)
-
-### Chore
-
-
-
-- update container image sonatype/nexus3 to v3.66.0[@c63b3fb](https://github.com/c63b3fb) by renovate ([#19126](https://github.com/truecharts/charts/issues/19126))
 

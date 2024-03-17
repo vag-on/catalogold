@@ -1,6 +1,6 @@
 
 
-## [traefik-crds-0.3.0](https://github.com/truecharts/charts/compare/traefik-crds-0.2.0...traefik-crds-0.3.0) (2024-03-16)
+## [traefik-crds-0.3.0](https://github.com/truecharts/charts/compare/traefik-crds-0.2.0...traefik-crds-0.3.0) (2024-03-17)
 
 ### Chore
 

@@ -1,6 +1,6 @@
 
 
-## [vaultwarden-26.7.0](https://github.com/truecharts/charts/compare/vaultwarden-26.6.0...vaultwarden-26.7.0) (2024-03-16)
+## [vaultwarden-26.7.0](https://github.com/truecharts/charts/compare/vaultwarden-26.6.0...vaultwarden-26.7.0) (2024-03-17)
 
 ### Chore
 

@@ -1,6 +1,6 @@
 
 
-## [kasm-8.7.0](https://github.com/truecharts/charts/compare/kasm-8.6.0...kasm-8.7.0) (2024-03-16)
+## [kasm-8.7.0](https://github.com/truecharts/charts/compare/kasm-8.6.0...kasm-8.7.0) (2024-03-17)
 
 ### Chore
 

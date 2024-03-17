@@ -1,6 +1,6 @@
 
 
-## [prometheus-operator-6.9.0](https://github.com/truecharts/charts/compare/prometheus-operator-6.8.0...prometheus-operator-6.9.0) (2024-03-16)
+## [prometheus-operator-6.9.0](https://github.com/truecharts/charts/compare/prometheus-operator-6.8.0...prometheus-operator-6.9.0) (2024-03-17)
 
 ### Chore
 

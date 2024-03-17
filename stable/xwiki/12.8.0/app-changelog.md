@@ -1,6 +1,6 @@
 
 
-## [xwiki-12.8.0](https://github.com/truecharts/charts/compare/xwiki-12.7.0...xwiki-12.8.0) (2024-03-16)
+## [xwiki-12.8.0](https://github.com/truecharts/charts/compare/xwiki-12.7.0...xwiki-12.8.0) (2024-03-17)
 
 ### Chore
 

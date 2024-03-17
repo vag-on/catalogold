@@ -1,6 +1,6 @@
 
 
-## [discordgsm-7.8.0](https://github.com/truecharts/charts/compare/discordgsm-7.6.0...discordgsm-7.8.0) (2024-03-16)
+## [discordgsm-7.8.0](https://github.com/truecharts/charts/compare/discordgsm-7.6.0...discordgsm-7.8.0) (2024-03-17)
 
 ### Chore
 

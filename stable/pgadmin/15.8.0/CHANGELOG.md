@@ -53,6 +53,15 @@ title: Changelog
 - update container image common to v20.2.0[@91ade87](https://github.com/91ade87) by renovate ([#19361](https://github.com/truecharts/charts/issues/19361))
 
 
+## [pgadmin-15.8.0](https://github.com/truecharts/charts/compare/pgadmin-15.7.0...pgadmin-15.8.0) (2024-03-16)
+
+### Chore
+
+
+
+- update container image common to v20.2.0[@91ade87](https://github.com/91ade87) by renovate ([#19361](https://github.com/truecharts/charts/issues/19361))
+
+
 ## [pgadmin-15.7.0](https://github.com/truecharts/charts/compare/pgadmin-15.6.2...pgadmin-15.7.0) (2024-03-16)
 
 ### Chore
@@ -87,13 +96,4 @@ title: Changelog
 
 
 - update container image common to v20.0.6[@5f6c753](https://github.com/5f6c753) by renovate ([#19131](https://github.com/truecharts/charts/issues/19131))
-
-
-## [pgadmin-15.5.0](https://github.com/truecharts/charts/compare/pgadmin-15.4.1...pgadmin-15.5.0) (2024-03-11)
-
-### Chore
-
-
-
-- update container image dpage/pgadmin4 to v8.4[@18cd571](https://github.com/18cd571) by renovate ([#19097](https://github.com/truecharts/charts/issues/19097))
 

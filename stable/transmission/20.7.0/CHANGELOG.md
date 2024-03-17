@@ -53,6 +53,15 @@ title: Changelog
 - update container image common to v20.2.0[@91ade87](https://github.com/91ade87) by renovate ([#19361](https://github.com/truecharts/charts/issues/19361))
 
 
+## [transmission-20.7.0](https://github.com/truecharts/charts/compare/transmission-20.6.0...transmission-20.7.0) (2024-03-16)
+
+### Chore
+
+
+
+- update container image common to v20.2.0[@91ade87](https://github.com/91ade87) by renovate ([#19361](https://github.com/truecharts/charts/issues/19361))
+
+
 ## [transmission-20.6.0](https://github.com/truecharts/charts/compare/transmission-20.5.2...transmission-20.6.0) (2024-03-16)
 
 ### Chore
@@ -87,13 +96,4 @@ title: Changelog
 
 
 - update container image common to v20.0.6[@5f6c753](https://github.com/5f6c753) by renovate ([#19131](https://github.com/truecharts/charts/issues/19131))
-
-
-## [transmission-20.4.1](https://github.com/truecharts/charts/compare/transmission-20.4.0...transmission-20.4.1) (2024-03-07)
-
-### Chore
-
-
-
-- bump everything to trigger re-release
 

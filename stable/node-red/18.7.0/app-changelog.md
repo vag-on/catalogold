@@ -1,6 +1,6 @@
 
 
-## [node-red-18.7.0](https://github.com/truecharts/charts/compare/node-red-18.6.0...node-red-18.7.0) (2024-03-16)
+## [node-red-18.7.0](https://github.com/truecharts/charts/compare/node-red-18.6.0...node-red-18.7.0) (2024-03-17)
 
 ### Chore
 

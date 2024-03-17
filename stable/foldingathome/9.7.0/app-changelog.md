@@ -1,6 +1,6 @@
 
 
-## [foldingathome-9.7.0](https://github.com/truecharts/charts/compare/foldingathome-9.6.0...foldingathome-9.7.0) (2024-03-16)
+## [foldingathome-9.7.0](https://github.com/truecharts/charts/compare/foldingathome-9.6.0...foldingathome-9.7.0) (2024-03-17)
 
 ### Chore
 

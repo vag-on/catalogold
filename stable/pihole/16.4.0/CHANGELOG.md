@@ -53,6 +53,15 @@ title: Changelog
 - update container image common to v20.2.0[@91ade87](https://github.com/91ade87) by renovate ([#19361](https://github.com/truecharts/charts/issues/19361))
 
 
+## [pihole-16.4.0](https://github.com/truecharts/charts/compare/pihole-16.3.0...pihole-16.4.0) (2024-03-16)
+
+### Chore
+
+
+
+- update container image common to v20.2.0[@91ade87](https://github.com/91ade87) by renovate ([#19361](https://github.com/truecharts/charts/issues/19361))
+
+
 ## [pihole-16.3.0](https://github.com/truecharts/charts/compare/pihole-16.2.2...pihole-16.3.0) (2024-03-16)
 
 ### Chore
@@ -87,13 +96,4 @@ title: Changelog
 
 
 - update container image common to v20.0.6[@5f6c753](https://github.com/5f6c753) by renovate ([#19131](https://github.com/truecharts/charts/issues/19131))
-
-
-## [pihole-16.1.2](https://github.com/truecharts/charts/compare/pihole-16.1.1...pihole-16.1.2) (2024-03-08)
-
-
-## [pihole-16.1.1](https://github.com/truecharts/charts/compare/pihole-16.1.0...pihole-16.1.1) (2024-03-07)
-
-### Chore
-
 

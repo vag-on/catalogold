@@ -1,6 +1,6 @@
 
 
-## [tubesync-5.7.0](https://github.com/truecharts/charts/compare/tubesync-5.6.0...tubesync-5.7.0) (2024-03-16)
+## [tubesync-5.7.0](https://github.com/truecharts/charts/compare/tubesync-5.6.0...tubesync-5.7.0) (2024-03-17)
 
 ### Chore
 

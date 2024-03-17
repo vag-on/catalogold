@@ -1,6 +1,6 @@
 
 
-## [scrutiny-10.8.0](https://github.com/truecharts/charts/compare/scrutiny-10.6.0...scrutiny-10.8.0) (2024-03-16)
+## [scrutiny-10.8.0](https://github.com/truecharts/charts/compare/scrutiny-10.6.0...scrutiny-10.8.0) (2024-03-17)
 
 ### Chore
 

@@ -1,6 +1,6 @@
 
 
-## [blender-5.7.0](https://github.com/truecharts/charts/compare/blender-5.6.0...blender-5.7.0) (2024-03-16)
+## [blender-5.7.0](https://github.com/truecharts/charts/compare/blender-5.6.0...blender-5.7.0) (2024-03-17)
 
 ### Chore
 

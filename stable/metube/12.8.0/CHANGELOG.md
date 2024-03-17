@@ -53,6 +53,15 @@ title: Changelog
 - update container image common to v20.2.0[@91ade87](https://github.com/91ade87) by renovate ([#19361](https://github.com/truecharts/charts/issues/19361))
 
 
+## [metube-12.8.0](https://github.com/truecharts/charts/compare/metube-12.7.0...metube-12.8.0) (2024-03-16)
+
+### Chore
+
+
+
+- update container image common to v20.2.0[@91ade87](https://github.com/91ade87) by renovate ([#19361](https://github.com/truecharts/charts/issues/19361))
+
+
 ## [metube-12.7.0](https://github.com/truecharts/charts/compare/metube-12.6.2...metube-12.7.0) (2024-03-16)
 
 ### Chore
@@ -87,13 +96,4 @@ title: Changelog
 
 
 - update container image common to v20.0.6[@5f6c753](https://github.com/5f6c753) by renovate ([#19131](https://github.com/truecharts/charts/issues/19131))
-
-
-## [metube-12.5.0](https://github.com/truecharts/charts/compare/metube-12.4.1...metube-12.5.0) (2024-03-11)
-
-### Chore
-
-
-
-- update container image alexta69/metube to v2024-03-11[@7482342](https://github.com/7482342) by renovate ([#19113](https://github.com/truecharts/charts/issues/19113))
 

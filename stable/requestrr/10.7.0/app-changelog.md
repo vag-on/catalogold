@@ -1,6 +1,6 @@
 
 
-## [requestrr-10.7.0](https://github.com/truecharts/charts/compare/requestrr-10.6.0...requestrr-10.7.0) (2024-03-16)
+## [requestrr-10.7.0](https://github.com/truecharts/charts/compare/requestrr-10.6.0...requestrr-10.7.0) (2024-03-17)
 
 ### Chore
 
