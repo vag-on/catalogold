@@ -59,7 +59,7 @@ title: Changelog
 - Fix ECDSA certs with TLS 1.2 ([#19377](https://github.com/truecharts/charts/issues/19377))
 
 
-## [traefik-26.9.1](https://github.com/truecharts/charts/compare/traefik-26.8.0...traefik-26.9.1) (2024-03-16)
+## [traefik-26.9.1](https://github.com/truecharts/charts/compare/traefik-26.8.0...traefik-26.9.1) (2024-03-17)
 
 ### Chore
 
@@ -93,7 +93,7 @@ title: Changelog
 - Fix ECDSA certs with TLS 1.2 ([#19377](https://github.com/truecharts/charts/issues/19377))
 
 
-## [traefik-26.9.0](https://github.com/truecharts/charts/compare/traefik-26.8.0...traefik-26.9.0) (2024-03-16)
+## [traefik-26.9.1](https://github.com/truecharts/charts/compare/traefik-26.8.0...traefik-26.9.1) (2024-03-16)
 
 ### Chore
 

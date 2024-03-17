@@ -47,7 +47,7 @@ title: Changelog
 - update container image registry to 2[@422c023](https://github.com/422c023) by renovate ([#19282](https://github.com/truecharts/charts/issues/19282))
 
 
-## [reg-13.7.0](https://github.com/truecharts/charts/compare/reg-13.6.0...reg-13.7.0) (2024-03-16)
+## [reg-13.7.0](https://github.com/truecharts/charts/compare/reg-13.6.0...reg-13.7.0) (2024-03-17)
 
 ### Chore
 
