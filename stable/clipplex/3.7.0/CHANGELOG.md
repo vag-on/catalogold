@@ -89,11 +89,11 @@ title: Changelog
 - update container image common to v20.2.0[@91ade87](https://github.com/91ade87) by renovate ([#19361](https://github.com/truecharts/charts/issues/19361))
 
 
-## [clipplex-3.6.0](https://github.com/truecharts/charts/compare/clipplex-3.5.2...clipplex-3.6.0) (2024-03-16)
+## [clipplex-3.7.0](https://github.com/truecharts/charts/compare/clipplex-3.6.0...clipplex-3.7.0) (2024-03-16)
 
 ### Chore
 
 
 
-- update container image common to v20.1.5[@dc867e0](https://github.com/dc867e0) by renovate ([#19210](https://github.com/truecharts/charts/issues/19210))
+- update container image common to v20.2.0[@91ade87](https://github.com/91ade87) by renovate ([#19361](https://github.com/truecharts/charts/issues/19361))
 

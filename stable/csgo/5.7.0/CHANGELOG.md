@@ -89,11 +89,11 @@ title: Changelog
 - update container image common to v20.2.0[@91ade87](https://github.com/91ade87) by renovate ([#19361](https://github.com/truecharts/charts/issues/19361))
 
 
-## [csgo-5.6.0](https://github.com/truecharts/charts/compare/csgo-5.5.2...csgo-5.6.0) (2024-03-16)
+## [csgo-5.7.0](https://github.com/truecharts/charts/compare/csgo-5.6.0...csgo-5.7.0) (2024-03-16)
 
 ### Chore
 
 
 
-- update container image common to v20.1.5[@dc867e0](https://github.com/dc867e0) by renovate ([#19210](https://github.com/truecharts/charts/issues/19210))
+- update container image common to v20.2.0[@91ade87](https://github.com/91ade87) by renovate ([#19361](https://github.com/truecharts/charts/issues/19361))
 
