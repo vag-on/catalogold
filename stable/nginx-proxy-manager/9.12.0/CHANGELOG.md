@@ -93,7 +93,7 @@ title: Changelog
 - update container image mariadb to v13.5.4[@f572f3a](https://github.com/f572f3a) by renovate ([#19318](https://github.com/truecharts/charts/issues/19318))
 
 
-## [nginx-proxy-manager-9.11.0](https://github.com/truecharts/charts/compare/nginx-proxy-manager-9.9.0...nginx-proxy-manager-9.11.0) (2024-03-16)
+## [nginx-proxy-manager-9.12.0](https://github.com/truecharts/charts/compare/nginx-proxy-manager-9.9.0...nginx-proxy-manager-9.12.0) (2024-03-17)
 
 ### Chore
 
