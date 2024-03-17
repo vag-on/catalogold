@@ -62,6 +62,15 @@ title: Changelog
 - update container image common to v20.2.0[@91ade87](https://github.com/91ade87) by renovate ([#19361](https://github.com/truecharts/charts/issues/19361))
 
 
+## [simply-shorten-8.7.0](https://github.com/truecharts/charts/compare/simply-shorten-8.6.0...simply-shorten-8.7.0) (2024-03-16)
+
+### Chore
+
+
+
+- update container image common to v20.2.0[@91ade87](https://github.com/91ade87) by renovate ([#19361](https://github.com/truecharts/charts/issues/19361))
+
+
 ## [simply-shorten-8.6.0](https://github.com/truecharts/charts/compare/simply-shorten-8.5.2...simply-shorten-8.6.0) (2024-03-16)
 
 ### Chore
@@ -87,13 +96,4 @@ title: Changelog
 
 
 - update container image common to v20.0.8[@021a874](https://github.com/021a874) by renovate ([#19175](https://github.com/truecharts/charts/issues/19175))
-
-
-## [simply-shorten-8.5.0](https://github.com/truecharts/charts/compare/simply-shorten-8.4.1...simply-shorten-8.5.0) (2024-03-11)
-
-### Chore
-
-
-
-- update container image common to v20.0.6[@5f6c753](https://github.com/5f6c753) by renovate ([#19131](https://github.com/truecharts/charts/issues/19131))
 
