@@ -37,11 +37,13 @@ title: Changelog
 - update container image quay.io/pussthecatorg/libremdb to latest[@a40d5e0](https://github.com/a40d5e0) by renovate ([#19279](https://github.com/truecharts/charts/issues/19279))
 
 
-## [libremdb-7.7.5](https://github.com/truecharts/charts/compare/libremdb-7.6.0...libremdb-7.7.5) (2024-03-18)
+## [libremdb-7.7.6](https://github.com/truecharts/charts/compare/libremdb-7.6.0...libremdb-7.7.6) (2024-03-18)
 
 ### Chore
 
 
+
+- update container image quay.io/pussthecatorg/libremdb to latest[@c83bd08](https://github.com/c83bd08) by renovate ([#19449](https://github.com/truecharts/charts/issues/19449))
 
 - update container image common to v20.2.2[@f7d0b92](https://github.com/f7d0b92) by renovate ([#19432](https://github.com/truecharts/charts/issues/19432))
 
@@ -95,6 +97,3 @@ title: Changelog
 
 ### Chore
 
-
-
-- update container image common to v20.2.2[@f7d0b92](https://github.com/f7d0b92) by renovate ([#19432](https://github.com/truecharts/charts/issues/19432))
