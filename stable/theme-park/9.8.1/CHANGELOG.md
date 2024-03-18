@@ -96,4 +96,4 @@ title: Changelog
 - update container image common to v20.2.0[@91ade87](https://github.com/91ade87) by renovate ([#19361](https://github.com/truecharts/charts/issues/19361))
 
 
-## [theme-park-9.8.0](https://github.com/truecharts/charts/compare/theme-park-9.7.0...theme-park-9.8.0) (2024-03-16)
+## [theme-park-9.8.1](https://github.com/truecharts/charts/compare/theme-park-9.7.0...theme-park-9.8.1) (2024-03-17)
