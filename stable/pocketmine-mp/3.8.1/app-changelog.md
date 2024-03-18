@@ -1,6 +1,6 @@
 
 
-## [pocketmine-mp-3.8.1](https://github.com/truecharts/charts/compare/pocketmine-mp-3.6.0...pocketmine-mp-3.8.1) (2024-03-17)
+## [pocketmine-mp-3.8.1](https://github.com/truecharts/charts/compare/pocketmine-mp-3.6.0...pocketmine-mp-3.8.1) (2024-03-18)
 
 ### Chore
 

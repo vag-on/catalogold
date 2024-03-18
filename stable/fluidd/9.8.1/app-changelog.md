@@ -1,6 +1,6 @@
 
 
-## [fluidd-9.8.1](https://github.com/truecharts/charts/compare/fluidd-9.6.0...fluidd-9.8.1) (2024-03-17)
+## [fluidd-9.8.1](https://github.com/truecharts/charts/compare/fluidd-9.6.0...fluidd-9.8.1) (2024-03-18)
 
 ### Chore
 
