@@ -1,7 +1,7 @@
 image:
   repository: ghcr.io/nwithan8/tauticord
   pullPolicy: IfNotPresent
-  tag: 4.1.1@sha256:485f6cad05f4ad976fd74bc58eb9c66fce90a0c85d4aec493acf4f1514a50dfb
+  tag: 4.1.3@sha256:4d9bbcd7d0e79027e56961776f89d8aecdba3e571de0aee961f7a0e0262a24b1
 securityContext:
   container:
     runAsNonRoot: false

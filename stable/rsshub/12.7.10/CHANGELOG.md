@@ -43,11 +43,13 @@ title: Changelog
 - update container image diygod/rsshub to latest[@b5a6e57](https://github.com/b5a6e57) by renovate ([#19220](https://github.com/truecharts/charts/issues/19220))
 
 
-## [rsshub-12.7.9](https://github.com/truecharts/charts/compare/rsshub-12.6.0...rsshub-12.7.9) (2024-03-19)
+## [rsshub-12.7.10](https://github.com/truecharts/charts/compare/rsshub-12.6.0...rsshub-12.7.10) (2024-03-19)
 
 ### Chore
 
 
+
+- update container image diygod/rsshub to latest[@4cbfa22](https://github.com/4cbfa22) by renovate ([#19491](https://github.com/truecharts/charts/issues/19491))
 
 - update container image diygod/rsshub to latest[@17338af](https://github.com/17338af) by renovate ([#19462](https://github.com/truecharts/charts/issues/19462))
 
@@ -95,5 +97,3 @@ title: Changelog
 - update container image diygod/rsshub to latest[@59dcb9e](https://github.com/59dcb9e) by renovate ([#19430](https://github.com/truecharts/charts/issues/19430))
 
 - update container image diygod/rsshub to latest[@4040524](https://github.com/4040524) by renovate ([#19419](https://github.com/truecharts/charts/issues/19419))
-
-- update container image diygod/rsshub to latest[@3be9a6d](https://github.com/3be9a6d) by renovate ([#19396](https://github.com/truecharts/charts/issues/19396))
