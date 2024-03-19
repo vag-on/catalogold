@@ -2,12 +2,12 @@ annotations:
   max_scale_version: 24.04.0
   min_scale_version: 23.10.0
   truecharts.org/SCALE-support: "true"
-  truecharts.org/category: media
+  truecharts.org/category: website
   truecharts.org/max_helm_version: "3.14"
   truecharts.org/min_helm_version: "3.11"
   truecharts.org/train: stable
 apiVersion: v2
-appVersion: latest
+appVersion: 6.4.3
 dependencies:
   - name: common
     version: 20.2.2
@@ -16,31 +16,29 @@ dependencies:
     alias: ""
     tags: []
     import-values: []
-  - name: redis
-    version: 13.0.5
+  - name: mariadb
+    version: 13.7.1
     repository: oci://tccr.io/truecharts
-    condition: redis.enabled
+    condition: mariadb.enabled
     alias: ""
     tags: []
     import-values: []
 deprecated: false
-description: A free & open source IMDb front-end.
-home: https://truecharts.org/charts/stable/libremdb
-icon: https://truecharts.org/img/hotlink-ok/chart-icons/libremdb.png
+description: The WordPress rich content management system can utilize plugins, widgets, and themes.
+home: https://truecharts.org/charts/stable/wordpress
+icon: https://truecharts.org/img/hotlink-ok/chart-icons/wordpress.png
 keywords:
-  - libremdb
-  - media
-  - imdb
+  - wordpress
+  - cms
 kubeVersion: '>=1.24.0-0'
 maintainers:
   - name: TrueCharts
     email: info@truecharts.org
     url: https://truecharts.org
-name: libremdb
+name: wordpress
 sources:
-  - https://github.com/PussTheCat-org/docker-libremdb-quay
-  - https://github.com/zyachel/libremdb
-  - https://github.com/truecharts/charts/tree/master/charts/stable/libremdb
-  - https://quay.io/pussthecatorg/libremdb
+  - https://www.wordpress.org
+  - https://github.com/truecharts/charts/tree/master/charts/stable/wordpress
+  - https://hub.docker.com/r/bitnami/wordpress
 type: application
-version: 7.7.7
+version: 7.12.4
