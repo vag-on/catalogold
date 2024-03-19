@@ -8,7 +8,7 @@ title: Changelog
 **Important:**
 
 
-## [local-ai-9.19.2](https://github.com/truecharts/charts/compare/local-ai-9.12.0...local-ai-9.19.2) (2024-03-18)
+## [local-ai-9.19.2](https://github.com/truecharts/charts/compare/local-ai-9.12.0...local-ai-9.19.2) (2024-03-19)
 
 ### Chore
 

@@ -1,6 +1,6 @@
 
 
-## [jupyter-8.7.1](https://github.com/truecharts/charts/compare/jupyter-8.6.0...jupyter-8.7.1) (2024-03-18)
+## [jupyter-8.7.1](https://github.com/truecharts/charts/compare/jupyter-8.6.0...jupyter-8.7.1) (2024-03-19)
 
 ### Chore
 
